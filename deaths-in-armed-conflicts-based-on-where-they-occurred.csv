@@ -1,4 +1,4 @@
-Entity,Year,Interstate
+Entity,Year,Deaths in ongoing conflicts in a country (best estimate) - Conflict type: all
 Abkhazia,1989,0
 Abkhazia,1990,0
 Abkhazia,1991,0
@@ -34,41 +34,41 @@ Abkhazia,2020,0
 Abkhazia,2021,0
 Abkhazia,2022,0
 Abkhazia,2023,0
-Afghanistan,1989,0
-Afghanistan,1990,0
-Afghanistan,1991,0
-Afghanistan,1992,0
-Afghanistan,1993,0
-Afghanistan,1994,0
-Afghanistan,1995,0
-Afghanistan,1996,0
-Afghanistan,1997,0
-Afghanistan,1998,0
-Afghanistan,1999,0
-Afghanistan,2000,0
-Afghanistan,2001,1397
-Afghanistan,2002,0
-Afghanistan,2003,0
-Afghanistan,2004,0
-Afghanistan,2005,0
-Afghanistan,2006,0
-Afghanistan,2007,0
-Afghanistan,2008,0
-Afghanistan,2009,0
-Afghanistan,2010,0
-Afghanistan,2011,0
-Afghanistan,2012,0
-Afghanistan,2013,0
-Afghanistan,2014,0
-Afghanistan,2015,0
-Afghanistan,2016,0
-Afghanistan,2017,0
-Afghanistan,2018,0
-Afghanistan,2019,0
-Afghanistan,2020,0
-Afghanistan,2021,0
-Afghanistan,2022,0
-Afghanistan,2023,0
+Afghanistan,1989,5411
+Afghanistan,1990,1514
+Afghanistan,1991,3553
+Afghanistan,1992,4366
+Afghanistan,1993,4097
+Afghanistan,1994,9055
+Afghanistan,1995,5610
+Afghanistan,1996,3574
+Afghanistan,1997,6719
+Afghanistan,1998,12154
+Afghanistan,1999,5074
+Afghanistan,2000,5387
+Afghanistan,2001,5553
+Afghanistan,2002,1131
+Afghanistan,2003,922
+Afghanistan,2004,809
+Afghanistan,2005,1700
+Afghanistan,2006,4958
+Afghanistan,2007,6911
+Afghanistan,2008,5644
+Afghanistan,2009,6488
+Afghanistan,2010,7151
+Afghanistan,2011,7560
+Afghanistan,2012,7754
+Afghanistan,2013,8104
+Afghanistan,2014,12499
+Afghanistan,2015,17926
+Afghanistan,2016,18674
+Afghanistan,2017,19741
+Afghanistan,2018,26822
+Afghanistan,2019,30393
+Afghanistan,2020,20808
+Afghanistan,2021,36370
+Afghanistan,2022,1521
+Afghanistan,2023,334
 Albania,1989,0
 Albania,1990,0
 Albania,1991,0
@@ -79,7 +79,7 @@ Albania,1995,0
 Albania,1996,0
 Albania,1997,0
 Albania,1998,0
-Albania,1999,0
+Albania,1999,22
 Albania,2000,0
 Albania,2001,0
 Albania,2002,0
@@ -106,39 +106,39 @@ Albania,2022,0
 Albania,2023,0
 Algeria,1989,0
 Algeria,1990,0
-Algeria,1991,0
-Algeria,1992,0
-Algeria,1993,0
-Algeria,1994,0
-Algeria,1995,0
-Algeria,1996,0
-Algeria,1997,0
-Algeria,1998,0
-Algeria,1999,0
-Algeria,2000,0
-Algeria,2001,0
-Algeria,2002,0
-Algeria,2003,0
-Algeria,2004,0
-Algeria,2005,0
-Algeria,2006,0
-Algeria,2007,0
-Algeria,2008,0
-Algeria,2009,0
-Algeria,2010,0
-Algeria,2011,0
-Algeria,2012,0
-Algeria,2013,0
-Algeria,2014,0
-Algeria,2015,0
-Algeria,2016,0
-Algeria,2017,0
-Algeria,2018,0
+Algeria,1991,34
+Algeria,1992,257
+Algeria,1993,826
+Algeria,1994,1916
+Algeria,1995,3035
+Algeria,1996,1084
+Algeria,1997,2008
+Algeria,1998,3281
+Algeria,1999,1156
+Algeria,2000,1191
+Algeria,2001,674
+Algeria,2002,1049
+Algeria,2003,704
+Algeria,2004,484
+Algeria,2005,217
+Algeria,2006,292
+Algeria,2007,531
+Algeria,2008,345
+Algeria,2009,544
+Algeria,2010,236
+Algeria,2011,270
+Algeria,2012,258
+Algeria,2013,226
+Algeria,2014,107
+Algeria,2015,110
+Algeria,2016,85
+Algeria,2017,98
+Algeria,2018,45
 Algeria,2019,0
-Algeria,2020,0
-Algeria,2021,0
-Algeria,2022,0
-Algeria,2023,0
+Algeria,2020,26
+Algeria,2021,13
+Algeria,2022,10
+Algeria,2023,6
 Andorra,1989,0
 Andorra,1990,0
 Andorra,1991,0
@@ -174,40 +174,40 @@ Andorra,2020,0
 Andorra,2021,0
 Andorra,2022,0
 Andorra,2023,0
-Angola,1989,0
-Angola,1990,0
-Angola,1991,0
-Angola,1992,0
-Angola,1993,0
-Angola,1994,0
-Angola,1995,0
-Angola,1996,0
-Angola,1997,0
-Angola,1998,0
-Angola,1999,0
-Angola,2000,0
-Angola,2001,0
-Angola,2002,0
-Angola,2003,0
-Angola,2004,0
+Angola,1989,2873
+Angola,1990,2609
+Angola,1991,516
+Angola,1992,2346
+Angola,1993,12397
+Angola,1994,3984
+Angola,1995,234
+Angola,1996,23
+Angola,1997,88
+Angola,1998,1168
+Angola,1999,2665
+Angola,2000,1202
+Angola,2001,2156
+Angola,2002,537
+Angola,2003,59
+Angola,2004,23
 Angola,2005,0
 Angola,2006,0
-Angola,2007,0
+Angola,2007,25
 Angola,2008,0
-Angola,2009,0
+Angola,2009,25
 Angola,2010,0
 Angola,2011,0
 Angola,2012,0
 Angola,2013,0
 Angola,2014,0
 Angola,2015,0
-Angola,2016,0
-Angola,2017,0
+Angola,2016,23
+Angola,2017,22
 Angola,2018,0
-Angola,2019,0
-Angola,2020,0
+Angola,2019,25
+Angola,2020,21
 Angola,2021,0
-Angola,2022,0
+Angola,2022,19
 Angola,2023,0
 Antigua and Barbuda,1989,0
 Antigua and Barbuda,1990,0
@@ -249,7 +249,7 @@ Argentina,1990,0
 Argentina,1991,0
 Argentina,1992,0
 Argentina,1993,0
-Argentina,1994,0
+Argentina,1994,86
 Argentina,1995,0
 Argentina,1996,0
 Argentina,1997,0
@@ -280,11 +280,11 @@ Argentina,2021,0
 Argentina,2022,0
 Argentina,2023,0
 Armenia,1989,0
-Armenia,1990,0
-Armenia,1991,0
-Armenia,1992,0
-Armenia,1993,0
-Armenia,1994,0
+Armenia,1990,22
+Armenia,1991,12
+Armenia,1992,120
+Armenia,1993,44
+Armenia,1994,30
 Armenia,1995,0
 Armenia,1996,0
 Armenia,1997,0
@@ -295,25 +295,25 @@ Armenia,2001,0
 Armenia,2002,0
 Armenia,2003,0
 Armenia,2004,0
-Armenia,2005,0
+Armenia,2005,2
 Armenia,2006,0
 Armenia,2007,0
 Armenia,2008,0
 Armenia,2009,0
 Armenia,2010,0
 Armenia,2011,0
-Armenia,2012,0
+Armenia,2012,9
 Armenia,2013,0
-Armenia,2014,0
-Armenia,2015,0
-Armenia,2016,0
+Armenia,2014,3
+Armenia,2015,9
+Armenia,2016,5
 Armenia,2017,0
 Armenia,2018,0
 Armenia,2019,0
-Armenia,2020,0
-Armenia,2021,0
-Armenia,2022,0
-Armenia,2023,0
+Armenia,2020,12
+Armenia,2021,10
+Armenia,2022,153
+Armenia,2023,20
 Australia,1989,0
 Australia,1990,0
 Australia,1991,0
@@ -343,7 +343,7 @@ Australia,2014,0
 Australia,2015,0
 Australia,2016,0
 Australia,2017,0
-Australia,2018,0
+Australia,2018,2
 Australia,2019,0
 Australia,2020,0
 Australia,2021,0
@@ -380,45 +380,45 @@ Austria,2016,0
 Austria,2017,0
 Austria,2018,0
 Austria,2019,0
-Austria,2020,0
+Austria,2020,4
 Austria,2021,0
 Austria,2022,0
 Austria,2023,0
-Azerbaijan,1989,0
-Azerbaijan,1990,0
-Azerbaijan,1991,0
-Azerbaijan,1992,0
-Azerbaijan,1993,0
-Azerbaijan,1994,0
-Azerbaijan,1995,0
+Azerbaijan,1989,42
+Azerbaijan,1990,196
+Azerbaijan,1991,286
+Azerbaijan,1992,2821
+Azerbaijan,1993,1185
+Azerbaijan,1994,1477
+Azerbaijan,1995,44
 Azerbaijan,1996,0
-Azerbaijan,1997,0
-Azerbaijan,1998,0
+Azerbaijan,1997,29
+Azerbaijan,1998,34
 Azerbaijan,1999,0
 Azerbaijan,2000,0
 Azerbaijan,2001,0
 Azerbaijan,2002,0
 Azerbaijan,2003,0
 Azerbaijan,2004,0
-Azerbaijan,2005,0
+Azerbaijan,2005,23
 Azerbaijan,2006,0
 Azerbaijan,2007,0
-Azerbaijan,2008,0
+Azerbaijan,2008,30
 Azerbaijan,2009,0
 Azerbaijan,2010,0
 Azerbaijan,2011,0
-Azerbaijan,2012,0
+Azerbaijan,2012,16
 Azerbaijan,2013,0
-Azerbaijan,2014,0
-Azerbaijan,2015,0
-Azerbaijan,2016,0
-Azerbaijan,2017,0
+Azerbaijan,2014,43
+Azerbaijan,2015,63
+Azerbaijan,2016,136
+Azerbaijan,2017,36
 Azerbaijan,2018,0
 Azerbaijan,2019,0
-Azerbaijan,2020,0
-Azerbaijan,2021,0
-Azerbaijan,2022,0
-Azerbaijan,2023,0
+Azerbaijan,2020,7634
+Azerbaijan,2021,30
+Azerbaijan,2022,155
+Azerbaijan,2023,442
 Bahamas,1989,0
 Bahamas,1990,0
 Bahamas,1991,0
@@ -476,7 +476,7 @@ Bahrain,2007,0
 Bahrain,2008,0
 Bahrain,2009,0
 Bahrain,2010,0
-Bahrain,2011,0
+Bahrain,2011,26
 Bahrain,2012,0
 Bahrain,2013,0
 Bahrain,2014,0
@@ -489,40 +489,40 @@ Bahrain,2020,0
 Bahrain,2021,0
 Bahrain,2022,0
 Bahrain,2023,0
-Bangladesh,1989,0
-Bangladesh,1990,0
-Bangladesh,1991,0
-Bangladesh,1992,0
-Bangladesh,1993,0
-Bangladesh,1994,0
+Bangladesh,1989,80
+Bangladesh,1990,92
+Bangladesh,1991,93
+Bangladesh,1992,190
+Bangladesh,1993,27
+Bangladesh,1994,23
 Bangladesh,1995,0
-Bangladesh,1996,0
+Bangladesh,1996,33
 Bangladesh,1997,0
 Bangladesh,1998,0
 Bangladesh,1999,0
-Bangladesh,2000,0
-Bangladesh,2001,0
+Bangladesh,2000,74
+Bangladesh,2001,60
 Bangladesh,2002,0
 Bangladesh,2003,0
-Bangladesh,2004,0
-Bangladesh,2005,0
-Bangladesh,2006,0
-Bangladesh,2007,0
+Bangladesh,2004,25
+Bangladesh,2005,62
+Bangladesh,2006,57
+Bangladesh,2007,1
 Bangladesh,2008,0
 Bangladesh,2009,0
 Bangladesh,2010,0
 Bangladesh,2011,0
 Bangladesh,2012,0
-Bangladesh,2013,0
+Bangladesh,2013,30
 Bangladesh,2014,0
-Bangladesh,2015,0
-Bangladesh,2016,0
-Bangladesh,2017,0
+Bangladesh,2015,5
+Bangladesh,2016,73
+Bangladesh,2017,48
 Bangladesh,2018,0
 Bangladesh,2019,0
-Bangladesh,2020,0
+Bangladesh,2020,3
 Bangladesh,2021,0
-Bangladesh,2022,0
+Bangladesh,2022,2
 Bangladesh,2023,0
 Barbados,1989,0
 Barbados,1990,0
@@ -621,14 +621,14 @@ Belgium,2012,0
 Belgium,2013,0
 Belgium,2014,0
 Belgium,2015,0
-Belgium,2016,0
+Belgium,2016,34
 Belgium,2017,0
-Belgium,2018,0
+Belgium,2018,4
 Belgium,2019,0
 Belgium,2020,0
 Belgium,2021,0
 Belgium,2022,0
-Belgium,2023,0
+Belgium,2023,2
 Belize,1989,0
 Belize,1990,0
 Belize,1991,0
@@ -694,11 +694,11 @@ Benin,2015,0
 Benin,2016,0
 Benin,2017,0
 Benin,2018,0
-Benin,2019,0
+Benin,2019,1
 Benin,2020,0
 Benin,2021,0
-Benin,2022,0
-Benin,2023,0
+Benin,2022,33
+Benin,2023,77
 Bhutan,1989,0
 Bhutan,1990,0
 Bhutan,1991,0
@@ -707,7 +707,7 @@ Bhutan,1993,0
 Bhutan,1994,0
 Bhutan,1995,0
 Bhutan,1996,0
-Bhutan,1997,0
+Bhutan,1997,4
 Bhutan,1998,0
 Bhutan,1999,0
 Bhutan,2000,0
@@ -745,7 +745,7 @@ Bolivia,1996,0
 Bolivia,1997,0
 Bolivia,1998,0
 Bolivia,1999,0
-Bolivia,2000,0
+Bolivia,2000,50
 Bolivia,2001,0
 Bolivia,2002,0
 Bolivia,2003,0
@@ -762,20 +762,20 @@ Bolivia,2013,0
 Bolivia,2014,0
 Bolivia,2015,0
 Bolivia,2016,0
-Bolivia,2017,0
-Bolivia,2018,0
+Bolivia,2017,1
+Bolivia,2018,1
 Bolivia,2019,0
-Bolivia,2020,0
-Bolivia,2021,0
-Bolivia,2022,0
-Bolivia,2023,0
+Bolivia,2020,1
+Bolivia,2021,2
+Bolivia,2022,2
+Bolivia,2023,1
 Bosnia and Herzegovina,1989,0
 Bosnia and Herzegovina,1990,0
-Bosnia and Herzegovina,1991,0
-Bosnia and Herzegovina,1992,0
-Bosnia and Herzegovina,1993,0
-Bosnia and Herzegovina,1994,0
-Bosnia and Herzegovina,1995,0
+Bosnia and Herzegovina,1991,40
+Bosnia and Herzegovina,1992,26840
+Bosnia and Herzegovina,1993,13685
+Bosnia and Herzegovina,1994,7301
+Bosnia and Herzegovina,1995,17256
 Bosnia and Herzegovina,1996,0
 Bosnia and Herzegovina,1997,0
 Bosnia and Herzegovina,1998,0
@@ -843,37 +843,37 @@ Brazil,1989,0
 Brazil,1990,0
 Brazil,1991,0
 Brazil,1992,0
-Brazil,1993,0
-Brazil,1994,0
-Brazil,1995,0
+Brazil,1993,29
+Brazil,1994,28
+Brazil,1995,40
 Brazil,1996,0
-Brazil,1997,0
+Brazil,1997,34
 Brazil,1998,0
-Brazil,1999,0
-Brazil,2000,0
-Brazil,2001,0
-Brazil,2002,0
-Brazil,2003,0
-Brazil,2004,0
-Brazil,2005,0
+Brazil,1999,32
+Brazil,2000,29
+Brazil,2001,74
+Brazil,2002,48
+Brazil,2003,35
+Brazil,2004,85
+Brazil,2005,34
 Brazil,2006,0
 Brazil,2007,0
 Brazil,2008,0
-Brazil,2009,0
+Brazil,2009,40
 Brazil,2010,0
-Brazil,2011,0
-Brazil,2012,0
+Brazil,2011,31
+Brazil,2012,262
 Brazil,2013,0
 Brazil,2014,0
-Brazil,2015,0
-Brazil,2016,0
-Brazil,2017,0
-Brazil,2018,0
-Brazil,2019,0
-Brazil,2020,0
-Brazil,2021,0
-Brazil,2022,0
-Brazil,2023,0
+Brazil,2015,65
+Brazil,2016,83
+Brazil,2017,2881
+Brazil,2018,2492
+Brazil,2019,1613
+Brazil,2020,2578
+Brazil,2021,2581
+Brazil,2022,1610
+Brazil,2023,2372
 Brunei,1989,0
 Brunei,1990,0
 Brunei,1991,0
@@ -971,59 +971,59 @@ Burkina Faso,2012,0
 Burkina Faso,2013,0
 Burkina Faso,2014,0
 Burkina Faso,2015,0
-Burkina Faso,2016,0
-Burkina Faso,2017,0
-Burkina Faso,2018,0
-Burkina Faso,2019,0
-Burkina Faso,2020,0
-Burkina Faso,2021,0
-Burkina Faso,2022,0
-Burkina Faso,2023,0
+Burkina Faso,2016,25
+Burkina Faso,2017,34
+Burkina Faso,2018,171
+Burkina Faso,2019,1245
+Burkina Faso,2020,1131
+Burkina Faso,2021,1458
+Burkina Faso,2022,2607
+Burkina Faso,2023,6152
 Burundi,1989,0
 Burundi,1990,0
-Burundi,1991,0
-Burundi,1992,0
-Burundi,1993,0
-Burundi,1994,0
-Burundi,1995,0
-Burundi,1996,0
-Burundi,1997,0
-Burundi,1998,0
-Burundi,1999,0
-Burundi,2000,0
-Burundi,2001,0
-Burundi,2002,0
-Burundi,2003,0
-Burundi,2004,0
-Burundi,2005,0
-Burundi,2006,0
-Burundi,2007,0
-Burundi,2008,0
+Burundi,1991,342
+Burundi,1992,61
+Burundi,1993,10213
+Burundi,1994,980
+Burundi,1995,2824
+Burundi,1996,18622
+Burundi,1997,4391
+Burundi,1998,1797
+Burundi,1999,1825
+Burundi,2000,2377
+Burundi,2001,1614
+Burundi,2002,1924
+Burundi,2003,1282
+Burundi,2004,710
+Burundi,2005,483
+Burundi,2006,251
+Burundi,2007,52
+Burundi,2008,226
 Burundi,2009,0
 Burundi,2010,0
 Burundi,2011,0
 Burundi,2012,0
 Burundi,2013,0
-Burundi,2014,0
-Burundi,2015,0
-Burundi,2016,0
-Burundi,2017,0
-Burundi,2018,0
-Burundi,2019,0
-Burundi,2020,0
-Burundi,2021,0
-Burundi,2022,0
-Burundi,2023,0
-Cambodia,1989,0
-Cambodia,1990,0
-Cambodia,1991,0
-Cambodia,1992,0
-Cambodia,1993,0
-Cambodia,1994,0
-Cambodia,1995,0
-Cambodia,1996,0
-Cambodia,1997,0
-Cambodia,1998,0
+Burundi,2014,56
+Burundi,2015,265
+Burundi,2016,84
+Burundi,2017,38
+Burundi,2018,109
+Burundi,2019,75
+Burundi,2020,127
+Burundi,2021,76
+Burundi,2022,77
+Burundi,2023,122
+Cambodia,1989,814
+Cambodia,1990,377
+Cambodia,1991,312
+Cambodia,1992,191
+Cambodia,1993,474
+Cambodia,1994,566
+Cambodia,1995,673
+Cambodia,1996,841
+Cambodia,1997,205
+Cambodia,1998,163
 Cambodia,1999,0
 Cambodia,2000,0
 Cambodia,2001,0
@@ -1051,14 +1051,14 @@ Cambodia,2022,0
 Cambodia,2023,0
 Cameroon,1989,0
 Cameroon,1990,0
-Cameroon,1991,0
-Cameroon,1992,0
-Cameroon,1993,0
-Cameroon,1994,0
+Cameroon,1991,50
+Cameroon,1992,25
+Cameroon,1993,47
+Cameroon,1994,89
 Cameroon,1995,0
 Cameroon,1996,56
 Cameroon,1997,0
-Cameroon,1998,0
+Cameroon,1998,51
 Cameroon,1999,0
 Cameroon,2000,0
 Cameroon,2001,0
@@ -1072,28 +1072,28 @@ Cameroon,2008,0
 Cameroon,2009,0
 Cameroon,2010,0
 Cameroon,2011,0
-Cameroon,2012,0
-Cameroon,2013,0
-Cameroon,2014,0
-Cameroon,2015,0
-Cameroon,2016,0
-Cameroon,2017,0
-Cameroon,2018,0
-Cameroon,2019,0
-Cameroon,2020,0
-Cameroon,2021,0
-Cameroon,2022,0
-Cameroon,2023,0
+Cameroon,2012,1
+Cameroon,2013,52
+Cameroon,2014,1378
+Cameroon,2015,1856
+Cameroon,2016,501
+Cameroon,2017,374
+Cameroon,2018,945
+Cameroon,2019,833
+Cameroon,2020,781
+Cameroon,2021,854
+Cameroon,2022,662
+Cameroon,2023,684
 Canada,1989,0
 Canada,1990,0
 Canada,1991,0
 Canada,1992,0
 Canada,1993,0
 Canada,1994,0
-Canada,1995,0
+Canada,1995,24
 Canada,1996,0
 Canada,1997,0
-Canada,1998,0
+Canada,1998,27
 Canada,1999,0
 Canada,2000,0
 Canada,2001,0
@@ -1166,64 +1166,64 @@ Central African Republic,1997,0
 Central African Republic,1998,0
 Central African Republic,1999,0
 Central African Republic,2000,0
-Central African Republic,2001,0
-Central African Republic,2002,0
+Central African Republic,2001,13
+Central African Republic,2002,26
 Central African Republic,2003,0
-Central African Republic,2004,0
+Central African Republic,2004,20
 Central African Republic,2005,0
-Central African Republic,2006,0
-Central African Republic,2007,0
-Central African Republic,2008,0
-Central African Republic,2009,0
-Central African Republic,2010,0
-Central African Republic,2011,0
-Central African Republic,2012,0
-Central African Republic,2013,0
-Central African Republic,2014,0
-Central African Republic,2015,0
-Central African Republic,2016,0
-Central African Republic,2017,0
-Central African Republic,2018,0
-Central African Republic,2019,0
-Central African Republic,2020,0
-Central African Republic,2021,0
-Central African Republic,2022,0
-Central African Republic,2023,0
-Chad,1989,0
-Chad,1990,0
-Chad,1991,0
-Chad,1992,0
-Chad,1993,0
-Chad,1994,0
-Chad,1995,0
+Central African Republic,2006,179
+Central African Republic,2007,126
+Central African Republic,2008,3
+Central African Republic,2009,223
+Central African Republic,2010,141
+Central African Republic,2011,184
+Central African Republic,2012,99
+Central African Republic,2013,2162
+Central African Republic,2014,3069
+Central African Republic,2015,608
+Central African Republic,2016,628
+Central African Republic,2017,1756
+Central African Republic,2018,612
+Central African Republic,2019,339
+Central African Republic,2020,212
+Central African Republic,2021,982
+Central African Republic,2022,754
+Central African Republic,2023,388
+Chad,1989,50
+Chad,1990,263
+Chad,1991,95
+Chad,1992,1190
+Chad,1993,313
+Chad,1994,510
+Chad,1995,47
 Chad,1996,0
-Chad,1997,0
-Chad,1998,0
-Chad,1999,0
-Chad,2000,0
-Chad,2001,0
-Chad,2002,0
-Chad,2003,0
-Chad,2004,0
-Chad,2005,0
-Chad,2006,0
-Chad,2007,0
-Chad,2008,0
-Chad,2009,0
-Chad,2010,0
+Chad,1997,137
+Chad,1998,179
+Chad,1999,394
+Chad,2000,844
+Chad,2001,230
+Chad,2002,297
+Chad,2003,224
+Chad,2004,221
+Chad,2005,265
+Chad,2006,1654
+Chad,2007,280
+Chad,2008,991
+Chad,2009,135
+Chad,2010,4
 Chad,2011,0
 Chad,2012,0
 Chad,2013,0
-Chad,2014,0
-Chad,2015,0
-Chad,2016,0
-Chad,2017,0
-Chad,2018,0
-Chad,2019,0
-Chad,2020,0
-Chad,2021,0
-Chad,2022,0
-Chad,2023,0
+Chad,2014,6
+Chad,2015,389
+Chad,2016,2
+Chad,2017,88
+Chad,2018,168
+Chad,2019,258
+Chad,2020,249
+Chad,2021,666
+Chad,2022,91
+Chad,2023,112
 Chile,1989,0
 Chile,1990,0
 Chile,1991,0
@@ -1259,7 +1259,7 @@ Chile,2020,0
 Chile,2021,0
 Chile,2022,0
 Chile,2023,0
-China,1989,0
+China,1989,2600
 China,1990,0
 China,1991,0
 China,1992,0
@@ -1278,58 +1278,58 @@ China,2004,0
 China,2005,0
 China,2006,0
 China,2007,0
-China,2008,0
-China,2009,0
+China,2008,87
+China,2009,189
 China,2010,0
-China,2011,0
-China,2012,0
-China,2013,0
-China,2014,0
-China,2015,0
-China,2016,0
+China,2011,6
+China,2012,109
+China,2013,11
+China,2014,23
+China,2015,21
+China,2016,18
 China,2017,0
 China,2018,0
 China,2019,0
 China,2020,0
-China,2021,0
+China,2021,38
 China,2022,0
-China,2023,0
-Colombia,1989,0
-Colombia,1990,0
-Colombia,1991,0
-Colombia,1992,0
-Colombia,1993,0
-Colombia,1994,0
-Colombia,1995,0
-Colombia,1996,0
-Colombia,1997,0
-Colombia,1998,0
-Colombia,1999,0
-Colombia,2000,0
-Colombia,2001,0
-Colombia,2002,0
-Colombia,2003,0
-Colombia,2004,0
-Colombia,2005,0
-Colombia,2006,0
-Colombia,2007,0
-Colombia,2008,0
-Colombia,2009,0
-Colombia,2010,0
-Colombia,2011,0
-Colombia,2012,0
-Colombia,2013,0
-Colombia,2014,0
-Colombia,2015,0
-Colombia,2016,0
-Colombia,2017,0
-Colombia,2018,0
-Colombia,2019,0
-Colombia,2020,0
-Colombia,2021,0
-Colombia,2022,0
-Colombia,2023,0
-Comoros,1989,0
+China,2023,8
+Colombia,1989,380
+Colombia,1990,692
+Colombia,1991,834
+Colombia,1992,1479
+Colombia,1993,267
+Colombia,1994,1155
+Colombia,1995,922
+Colombia,1996,1379
+Colombia,1997,801
+Colombia,1998,1595
+Colombia,1999,2056
+Colombia,2000,4250
+Colombia,2001,4563
+Colombia,2002,5706
+Colombia,2003,4468
+Colombia,2004,3118
+Colombia,2005,1674
+Colombia,2006,561
+Colombia,2007,314
+Colombia,2008,236
+Colombia,2009,397
+Colombia,2010,397
+Colombia,2011,198
+Colombia,2012,211
+Colombia,2013,140
+Colombia,2014,119
+Colombia,2015,130
+Colombia,2016,29
+Colombia,2017,37
+Colombia,2018,208
+Colombia,2019,106
+Colombia,2020,114
+Colombia,2021,250
+Colombia,2022,278
+Colombia,2023,430
+Comoros,1989,29
 Comoros,1990,0
 Comoros,1991,0
 Comoros,1992,0
@@ -1337,8 +1337,8 @@ Comoros,1993,0
 Comoros,1994,0
 Comoros,1995,0
 Comoros,1996,0
-Comoros,1997,0
-Comoros,1998,0
+Comoros,1997,56
+Comoros,1998,40
 Comoros,1999,0
 Comoros,2000,0
 Comoros,2001,0
@@ -1368,16 +1368,16 @@ Congo,1989,0
 Congo,1990,0
 Congo,1991,0
 Congo,1992,0
-Congo,1993,0
+Congo,1993,135
 Congo,1994,0
 Congo,1995,0
 Congo,1996,0
-Congo,1997,0
-Congo,1998,0
-Congo,1999,0
+Congo,1997,10412
+Congo,1998,3763
+Congo,1999,948
 Congo,2000,0
 Congo,2001,0
-Congo,2002,0
+Congo,2002,225
 Congo,2003,0
 Congo,2004,0
 Congo,2005,0
@@ -1391,13 +1391,13 @@ Congo,2012,0
 Congo,2013,0
 Congo,2014,0
 Congo,2015,0
-Congo,2016,0
+Congo,2016,69
 Congo,2017,0
 Congo,2018,0
-Congo,2019,0
+Congo,2019,1
 Congo,2020,0
 Congo,2021,0
-Congo,2022,0
+Congo,2022,358
 Congo,2023,0
 Costa Rica,1989,0
 Costa Rica,1990,0
@@ -1435,33 +1435,33 @@ Costa Rica,2021,0
 Costa Rica,2022,0
 Costa Rica,2023,0
 Cote d'Ivoire,1989,0
-Cote d'Ivoire,1990,0
+Cote d'Ivoire,1990,8
 Cote d'Ivoire,1991,0
 Cote d'Ivoire,1992,0
-Cote d'Ivoire,1993,0
-Cote d'Ivoire,1994,0
-Cote d'Ivoire,1995,0
+Cote d'Ivoire,1993,1
+Cote d'Ivoire,1994,4
+Cote d'Ivoire,1995,57
 Cote d'Ivoire,1996,0
 Cote d'Ivoire,1997,0
 Cote d'Ivoire,1998,0
 Cote d'Ivoire,1999,0
-Cote d'Ivoire,2000,0
+Cote d'Ivoire,2000,132
 Cote d'Ivoire,2001,0
-Cote d'Ivoire,2002,0
-Cote d'Ivoire,2003,0
-Cote d'Ivoire,2004,0
-Cote d'Ivoire,2005,0
+Cote d'Ivoire,2002,1041
+Cote d'Ivoire,2003,483
+Cote d'Ivoire,2004,303
+Cote d'Ivoire,2005,128
 Cote d'Ivoire,2006,0
 Cote d'Ivoire,2007,0
 Cote d'Ivoire,2008,0
 Cote d'Ivoire,2009,0
-Cote d'Ivoire,2010,0
-Cote d'Ivoire,2011,0
+Cote d'Ivoire,2010,44
+Cote d'Ivoire,2011,1234
 Cote d'Ivoire,2012,0
 Cote d'Ivoire,2013,0
 Cote d'Ivoire,2014,0
 Cote d'Ivoire,2015,0
-Cote d'Ivoire,2016,0
+Cote d'Ivoire,2016,49
 Cote d'Ivoire,2017,0
 Cote d'Ivoire,2018,0
 Cote d'Ivoire,2019,0
@@ -1471,11 +1471,11 @@ Cote d'Ivoire,2022,0
 Cote d'Ivoire,2023,0
 Croatia,1989,0
 Croatia,1990,0
-Croatia,1991,0
-Croatia,1992,0
-Croatia,1993,0
-Croatia,1994,0
-Croatia,1995,0
+Croatia,1991,3155
+Croatia,1992,291
+Croatia,1993,373
+Croatia,1994,3
+Croatia,1995,959
 Croatia,1996,0
 Croatia,1997,0
 Croatia,1998,0
@@ -1644,41 +1644,41 @@ Czechoslovakia,2020,0
 Czechoslovakia,2021,0
 Czechoslovakia,2022,0
 Czechoslovakia,2023,0
-Democratic Republic of Congo,1989,0
-Democratic Republic of Congo,1990,0
-Democratic Republic of Congo,1991,0
-Democratic Republic of Congo,1992,0
-Democratic Republic of Congo,1993,0
-Democratic Republic of Congo,1994,0
-Democratic Republic of Congo,1995,0
-Democratic Republic of Congo,1996,0
-Democratic Republic of Congo,1997,0
-Democratic Republic of Congo,1998,0
-Democratic Republic of Congo,1999,0
-Democratic Republic of Congo,2000,0
-Democratic Republic of Congo,2001,0
-Democratic Republic of Congo,2002,0
-Democratic Republic of Congo,2003,0
-Democratic Republic of Congo,2004,0
-Democratic Republic of Congo,2005,0
-Democratic Republic of Congo,2006,0
-Democratic Republic of Congo,2007,0
-Democratic Republic of Congo,2008,0
-Democratic Republic of Congo,2009,0
-Democratic Republic of Congo,2010,0
-Democratic Republic of Congo,2011,0
-Democratic Republic of Congo,2012,0
-Democratic Republic of Congo,2013,0
-Democratic Republic of Congo,2014,0
-Democratic Republic of Congo,2015,0
-Democratic Republic of Congo,2016,0
-Democratic Republic of Congo,2017,0
-Democratic Republic of Congo,2018,0
-Democratic Republic of Congo,2019,0
-Democratic Republic of Congo,2020,0
-Democratic Republic of Congo,2021,0
-Democratic Republic of Congo,2022,0
-Democratic Republic of Congo,2023,0
+Democratic Republic of Congo,1989,28
+Democratic Republic of Congo,1990,147
+Democratic Republic of Congo,1991,32
+Democratic Republic of Congo,1992,67
+Democratic Republic of Congo,1993,3337
+Democratic Republic of Congo,1994,333
+Democratic Republic of Congo,1995,523
+Democratic Republic of Congo,1996,33074
+Democratic Republic of Congo,1997,13802
+Democratic Republic of Congo,1998,7554
+Democratic Republic of Congo,1999,7755
+Democratic Republic of Congo,2000,2968
+Democratic Republic of Congo,2001,1616
+Democratic Republic of Congo,2002,8012
+Democratic Republic of Congo,2003,4263
+Democratic Republic of Congo,2004,661
+Democratic Republic of Congo,2005,289
+Democratic Republic of Congo,2006,323
+Democratic Republic of Congo,2007,817
+Democratic Republic of Congo,2008,1697
+Democratic Republic of Congo,2009,5285
+Democratic Republic of Congo,2010,1063
+Democratic Republic of Congo,2011,459
+Democratic Republic of Congo,2012,1630
+Democratic Republic of Congo,2013,3100
+Democratic Republic of Congo,2014,1948
+Democratic Republic of Congo,2015,759
+Democratic Republic of Congo,2016,2142
+Democratic Republic of Congo,2017,5807
+Democratic Republic of Congo,2018,2955
+Democratic Republic of Congo,2019,2385
+Democratic Republic of Congo,2020,3841
+Democratic Republic of Congo,2021,3513
+Democratic Republic of Congo,2022,5322
+Democratic Republic of Congo,2023,3635
 Denmark,1989,0
 Denmark,1990,0
 Denmark,1991,0
@@ -1716,15 +1716,15 @@ Denmark,2022,0
 Denmark,2023,0
 Djibouti,1989,0
 Djibouti,1990,0
-Djibouti,1991,0
-Djibouti,1992,0
-Djibouti,1993,0
-Djibouti,1994,0
+Djibouti,1991,119
+Djibouti,1992,129
+Djibouti,1993,33
+Djibouti,1994,39
 Djibouti,1995,0
 Djibouti,1996,0
 Djibouti,1997,0
 Djibouti,1998,0
-Djibouti,1999,0
+Djibouti,1999,25
 Djibouti,2000,0
 Djibouti,2001,0
 Djibouti,2002,0
@@ -1739,11 +1739,11 @@ Djibouti,2010,0
 Djibouti,2011,0
 Djibouti,2012,0
 Djibouti,2013,0
-Djibouti,2014,0
+Djibouti,2014,1
 Djibouti,2015,0
 Djibouti,2016,0
 Djibouti,2017,0
-Djibouti,2018,0
+Djibouti,2018,6
 Djibouti,2019,0
 Djibouti,2020,0
 Djibouti,2021,0
@@ -1855,16 +1855,16 @@ East Germany,2021,0
 East Germany,2022,0
 East Germany,2023,0
 East Timor,1989,0
-East Timor,1990,0
-East Timor,1991,0
-East Timor,1992,0
+East Timor,1990,8
+East Timor,1991,294
+East Timor,1992,39
 East Timor,1993,0
 East Timor,1994,0
-East Timor,1995,0
+East Timor,1995,27
 East Timor,1996,0
-East Timor,1997,0
-East Timor,1998,0
-East Timor,1999,0
+East Timor,1997,80
+East Timor,1998,72
+East Timor,1999,775
 East Timor,2000,0
 East Timor,2001,0
 East Timor,2002,0
@@ -1901,16 +1901,16 @@ Ecuador,1997,0
 Ecuador,1998,0
 Ecuador,1999,0
 Ecuador,2000,0
-Ecuador,2001,0
+Ecuador,2001,4
 Ecuador,2002,0
-Ecuador,2003,0
-Ecuador,2004,0
+Ecuador,2003,27
+Ecuador,2004,15
 Ecuador,2005,0
 Ecuador,2006,0
 Ecuador,2007,0
-Ecuador,2008,0
+Ecuador,2008,25
 Ecuador,2009,0
-Ecuador,2010,0
+Ecuador,2010,9
 Ecuador,2011,0
 Ecuador,2012,0
 Ecuador,2013,0
@@ -1919,49 +1919,49 @@ Ecuador,2015,0
 Ecuador,2016,0
 Ecuador,2017,0
 Ecuador,2018,0
-Ecuador,2019,0
+Ecuador,2019,2
 Ecuador,2020,0
-Ecuador,2021,0
-Ecuador,2022,0
-Ecuador,2023,0
+Ecuador,2021,291
+Ecuador,2022,91
+Ecuador,2023,31
 Egypt,1989,0
 Egypt,1990,0
 Egypt,1991,0
 Egypt,1992,0
-Egypt,1993,0
-Egypt,1994,0
-Egypt,1995,0
-Egypt,1996,0
-Egypt,1997,0
-Egypt,1998,0
+Egypt,1993,103
+Egypt,1994,145
+Egypt,1995,227
+Egypt,1996,149
+Egypt,1997,143
+Egypt,1998,27
 Egypt,1999,0
 Egypt,2000,0
 Egypt,2001,0
 Egypt,2002,0
 Egypt,2003,0
-Egypt,2004,0
-Egypt,2005,0
+Egypt,2004,2
+Egypt,2005,124
 Egypt,2006,0
 Egypt,2007,0
 Egypt,2008,0
 Egypt,2009,0
 Egypt,2010,0
-Egypt,2011,0
-Egypt,2012,0
-Egypt,2013,0
-Egypt,2014,0
-Egypt,2015,0
-Egypt,2016,0
-Egypt,2017,0
-Egypt,2018,0
-Egypt,2019,0
-Egypt,2020,0
-Egypt,2021,0
-Egypt,2022,0
+Egypt,2011,31
+Egypt,2012,74
+Egypt,2013,119
+Egypt,2014,178
+Egypt,2015,861
+Egypt,2016,387
+Egypt,2017,855
+Egypt,2018,684
+Egypt,2019,633
+Egypt,2020,498
+Egypt,2021,87
+Egypt,2022,157
 Egypt,2023,0
-El Salvador,1989,0
-El Salvador,1990,0
-El Salvador,1991,0
+El Salvador,1989,4924
+El Salvador,1990,849
+El Salvador,1991,88
 El Salvador,1992,0
 El Salvador,1993,0
 El Salvador,1994,0
@@ -1974,7 +1974,7 @@ El Salvador,2000,0
 El Salvador,2001,0
 El Salvador,2002,0
 El Salvador,2003,0
-El Salvador,2004,0
+El Salvador,2004,34
 El Salvador,2005,0
 El Salvador,2006,0
 El Salvador,2007,0
@@ -1992,7 +1992,7 @@ El Salvador,2018,0
 El Salvador,2019,0
 El Salvador,2020,0
 El Salvador,2021,0
-El Salvador,2022,0
+El Salvador,2022,88
 El Salvador,2023,0
 Equatorial Guinea,1989,0
 Equatorial Guinea,1990,0
@@ -2029,21 +2029,21 @@ Equatorial Guinea,2020,0
 Equatorial Guinea,2021,0
 Equatorial Guinea,2022,0
 Equatorial Guinea,2023,0
-Eritrea,1989,0
-Eritrea,1990,0
-Eritrea,1991,0
+Eritrea,1989,6602
+Eritrea,1990,30702
+Eritrea,1991,6042
 Eritrea,1992,0
 Eritrea,1993,0
 Eritrea,1994,0
 Eritrea,1995,0
-Eritrea,1996,0
-Eritrea,1997,0
-Eritrea,1998,798
-Eritrea,1999,45178
+Eritrea,1996,50
+Eritrea,1997,31
+Eritrea,1998,842
+Eritrea,1999,45203
 Eritrea,2000,50000
 Eritrea,2001,0
 Eritrea,2002,0
-Eritrea,2003,0
+Eritrea,2003,57
 Eritrea,2004,0
 Eritrea,2005,0
 Eritrea,2006,0
@@ -2060,9 +2060,9 @@ Eritrea,2016,0
 Eritrea,2017,0
 Eritrea,2018,0
 Eritrea,2019,0
-Eritrea,2020,0
-Eritrea,2021,0
-Eritrea,2022,0
+Eritrea,2020,70
+Eritrea,2021,90
+Eritrea,2022,50
 Eritrea,2023,0
 Estonia,1989,0
 Estonia,1990,0
@@ -2099,7 +2099,7 @@ Estonia,2020,0
 Estonia,2021,0
 Estonia,2022,0
 Estonia,2023,0
-Eswatini,1989,0
+Eswatini,1989,2
 Eswatini,1990,0
 Eswatini,1991,0
 Eswatini,1992,0
@@ -2131,44 +2131,44 @@ Eswatini,2017,0
 Eswatini,2018,0
 Eswatini,2019,0
 Eswatini,2020,0
-Eswatini,2021,0
+Eswatini,2021,48
 Eswatini,2022,0
 Eswatini,2023,0
-Ethiopia,1989,0
-Ethiopia,1990,0
-Ethiopia,1991,0
-Ethiopia,1992,0
-Ethiopia,1993,0
-Ethiopia,1994,0
-Ethiopia,1995,0
-Ethiopia,1996,0
-Ethiopia,1997,0
-Ethiopia,1998,202
-Ethiopia,1999,2014
-Ethiopia,2000,0
-Ethiopia,2001,0
-Ethiopia,2002,0
-Ethiopia,2003,0
-Ethiopia,2004,0
-Ethiopia,2005,0
-Ethiopia,2006,0
-Ethiopia,2007,0
-Ethiopia,2008,0
-Ethiopia,2009,0
-Ethiopia,2010,0
-Ethiopia,2011,0
-Ethiopia,2012,0
-Ethiopia,2013,0
-Ethiopia,2014,0
-Ethiopia,2015,0
-Ethiopia,2016,25
-Ethiopia,2017,0
-Ethiopia,2018,0
-Ethiopia,2019,0
-Ethiopia,2020,0
-Ethiopia,2021,0
-Ethiopia,2022,0
-Ethiopia,2023,0
+Ethiopia,1989,18769
+Ethiopia,1990,19191
+Ethiopia,1991,6388
+Ethiopia,1992,1014
+Ethiopia,1993,124
+Ethiopia,1994,75
+Ethiopia,1995,1029
+Ethiopia,1996,52
+Ethiopia,1997,2
+Ethiopia,1998,1123
+Ethiopia,1999,2786
+Ethiopia,2000,442
+Ethiopia,2001,370
+Ethiopia,2002,801
+Ethiopia,2003,1064
+Ethiopia,2004,462
+Ethiopia,2005,247
+Ethiopia,2006,597
+Ethiopia,2007,471
+Ethiopia,2008,275
+Ethiopia,2009,834
+Ethiopia,2010,31
+Ethiopia,2011,57
+Ethiopia,2012,391
+Ethiopia,2013,274
+Ethiopia,2014,26
+Ethiopia,2015,318
+Ethiopia,2016,570
+Ethiopia,2017,450
+Ethiopia,2018,672
+Ethiopia,2019,455
+Ethiopia,2020,24350
+Ethiopia,2021,129409
+Ethiopia,2022,164945
+Ethiopia,2023,2212
 Fiji,1989,0
 Fiji,1990,0
 Fiji,1991,0
@@ -2265,15 +2265,15 @@ France,2011,0
 France,2012,0
 France,2013,0
 France,2014,0
-France,2015,0
-France,2016,0
-France,2017,0
-France,2018,0
+France,2015,133
+France,2016,87
+France,2017,2
+France,2018,13
 France,2019,0
 France,2020,0
 France,2021,0
 France,2022,0
-France,2023,0
+France,2023,48
 Gabon,1989,0
 Gabon,1990,0
 Gabon,1991,0
@@ -2325,7 +2325,7 @@ Gambia,2001,0
 Gambia,2002,0
 Gambia,2003,0
 Gambia,2004,0
-Gambia,2005,0
+Gambia,2005,8
 Gambia,2006,0
 Gambia,2007,0
 Gambia,2008,0
@@ -2346,24 +2346,24 @@ Gambia,2022,0
 Gambia,2023,0
 Georgia,1989,0
 Georgia,1990,0
-Georgia,1991,0
-Georgia,1992,0
-Georgia,1993,0
+Georgia,1991,111
+Georgia,1992,771
+Georgia,1993,1837
 Georgia,1994,0
-Georgia,1995,0
+Georgia,1995,52
 Georgia,1996,0
-Georgia,1997,0
-Georgia,1998,0
+Georgia,1997,26
+Georgia,1998,38
 Georgia,1999,0
 Georgia,2000,0
 Georgia,2001,0
-Georgia,2002,0
+Georgia,2002,9
 Georgia,2003,0
-Georgia,2004,0
+Georgia,2004,27
 Georgia,2005,0
 Georgia,2006,0
 Georgia,2007,0
-Georgia,2008,0
+Georgia,2008,621
 Georgia,2009,0
 Georgia,2010,0
 Georgia,2011,0
@@ -2378,9 +2378,9 @@ Georgia,2019,0
 Georgia,2020,0
 Georgia,2021,0
 Georgia,2022,0
-Georgia,2023,0
-Germany,1989,0
-Germany,1990,0
+Georgia,2023,1
+Germany,1989,3
+Germany,1990,1
 Germany,1991,0
 Germany,1992,0
 Germany,1993,0
@@ -2406,7 +2406,7 @@ Germany,2012,0
 Germany,2013,0
 Germany,2014,0
 Germany,2015,0
-Germany,2016,0
+Germany,2016,12
 Germany,2017,0
 Germany,2018,0
 Germany,2019,0
@@ -2416,24 +2416,24 @@ Germany,2022,0
 Germany,2023,0
 Ghana,1989,0
 Ghana,1990,0
-Ghana,1991,0
-Ghana,1992,0
+Ghana,1991,30
+Ghana,1992,63
 Ghana,1993,0
-Ghana,1994,0
-Ghana,1995,0
+Ghana,1994,2004
+Ghana,1995,155
 Ghana,1996,0
 Ghana,1997,0
 Ghana,1998,0
 Ghana,1999,0
-Ghana,2000,0
-Ghana,2001,0
-Ghana,2002,0
+Ghana,2000,30
+Ghana,2001,50
+Ghana,2002,36
 Ghana,2003,0
 Ghana,2004,0
 Ghana,2005,0
 Ghana,2006,0
 Ghana,2007,0
-Ghana,2008,0
+Ghana,2008,55
 Ghana,2009,0
 Ghana,2010,0
 Ghana,2011,0
@@ -2448,7 +2448,7 @@ Ghana,2019,0
 Ghana,2020,0
 Ghana,2021,0
 Ghana,2022,0
-Ghana,2023,0
+Ghana,2023,1
 Greece,1989,0
 Greece,1990,0
 Greece,1991,0
@@ -2554,13 +2554,13 @@ Grenada,2020,0
 Grenada,2021,0
 Grenada,2022,0
 Grenada,2023,0
-Guatemala,1989,0
-Guatemala,1990,0
-Guatemala,1991,0
-Guatemala,1992,0
-Guatemala,1993,0
-Guatemala,1994,0
-Guatemala,1995,0
+Guatemala,1989,489
+Guatemala,1990,671
+Guatemala,1991,425
+Guatemala,1992,393
+Guatemala,1993,218
+Guatemala,1994,287
+Guatemala,1995,122
 Guatemala,1996,0
 Guatemala,1997,0
 Guatemala,1998,0
@@ -2570,13 +2570,13 @@ Guatemala,2001,0
 Guatemala,2002,0
 Guatemala,2003,0
 Guatemala,2004,0
-Guatemala,2005,0
+Guatemala,2005,56
 Guatemala,2006,0
 Guatemala,2007,0
-Guatemala,2008,0
+Guatemala,2008,28
 Guatemala,2009,0
 Guatemala,2010,0
-Guatemala,2011,0
+Guatemala,2011,27
 Guatemala,2012,0
 Guatemala,2013,0
 Guatemala,2014,0
@@ -2584,7 +2584,7 @@ Guatemala,2015,0
 Guatemala,2016,0
 Guatemala,2017,0
 Guatemala,2018,0
-Guatemala,2019,0
+Guatemala,2019,5
 Guatemala,2020,0
 Guatemala,2021,0
 Guatemala,2022,0
@@ -2593,48 +2593,48 @@ Guinea,1989,0
 Guinea,1990,0
 Guinea,1991,0
 Guinea,1992,0
-Guinea,1993,0
+Guinea,1993,87
 Guinea,1994,0
 Guinea,1995,0
-Guinea,1996,0
+Guinea,1996,27
 Guinea,1997,0
-Guinea,1998,0
-Guinea,1999,0
-Guinea,2000,0
-Guinea,2001,0
+Guinea,1998,44
+Guinea,1999,7
+Guinea,2000,273
+Guinea,2001,430
 Guinea,2002,0
 Guinea,2003,0
 Guinea,2004,0
 Guinea,2005,0
 Guinea,2006,0
-Guinea,2007,0
+Guinea,2007,45
 Guinea,2008,0
-Guinea,2009,0
+Guinea,2009,160
 Guinea,2010,0
-Guinea,2011,0
+Guinea,2011,25
 Guinea,2012,0
-Guinea,2013,0
+Guinea,2013,98
 Guinea,2014,0
 Guinea,2015,0
 Guinea,2016,0
 Guinea,2017,0
 Guinea,2018,0
 Guinea,2019,0
-Guinea,2020,0
+Guinea,2020,30
 Guinea,2021,0
 Guinea,2022,0
 Guinea,2023,0
 Guinea-Bissau,1989,0
 Guinea-Bissau,1990,0
 Guinea-Bissau,1991,0
-Guinea-Bissau,1992,0
+Guinea-Bissau,1992,2
 Guinea-Bissau,1993,0
 Guinea-Bissau,1994,0
 Guinea-Bissau,1995,0
 Guinea-Bissau,1996,0
 Guinea-Bissau,1997,0
-Guinea-Bissau,1998,0
-Guinea-Bissau,1999,0
+Guinea-Bissau,1998,505
+Guinea-Bissau,1999,199
 Guinea-Bissau,2000,0
 Guinea-Bissau,2001,0
 Guinea-Bissau,2002,0
@@ -2678,7 +2678,7 @@ Guyana,2004,0
 Guyana,2005,0
 Guyana,2006,0
 Guyana,2007,0
-Guyana,2008,0
+Guyana,2008,29
 Guyana,2009,0
 Guyana,2010,0
 Guyana,2011,0
@@ -2694,12 +2694,12 @@ Guyana,2020,0
 Guyana,2021,0
 Guyana,2022,0
 Guyana,2023,0
-Haiti,1989,0
+Haiti,1989,48
 Haiti,1990,0
-Haiti,1991,0
+Haiti,1991,270
 Haiti,1992,0
-Haiti,1993,0
-Haiti,1994,0
+Haiti,1993,37
+Haiti,1994,44
 Haiti,1995,0
 Haiti,1996,0
 Haiti,1997,0
@@ -2709,8 +2709,8 @@ Haiti,2000,0
 Haiti,2001,0
 Haiti,2002,0
 Haiti,2003,0
-Haiti,2004,0
-Haiti,2005,0
+Haiti,2004,207
+Haiti,2005,40
 Haiti,2006,0
 Haiti,2007,0
 Haiti,2008,0
@@ -2723,12 +2723,12 @@ Haiti,2014,0
 Haiti,2015,0
 Haiti,2016,0
 Haiti,2017,0
-Haiti,2018,0
+Haiti,2018,71
 Haiti,2019,0
-Haiti,2020,0
-Haiti,2021,0
-Haiti,2022,0
-Haiti,2023,0
+Haiti,2020,162
+Haiti,2021,121
+Haiti,2022,235
+Haiti,2023,416
 Honduras,1989,0
 Honduras,1990,0
 Honduras,1991,0
@@ -2744,26 +2744,26 @@ Honduras,2000,0
 Honduras,2001,0
 Honduras,2002,0
 Honduras,2003,0
-Honduras,2004,0
+Honduras,2004,28
 Honduras,2005,0
 Honduras,2006,0
 Honduras,2007,0
-Honduras,2008,0
+Honduras,2008,27
 Honduras,2009,0
-Honduras,2010,0
+Honduras,2010,44
 Honduras,2011,0
 Honduras,2012,0
 Honduras,2013,0
 Honduras,2014,0
-Honduras,2015,0
+Honduras,2015,68
 Honduras,2016,0
 Honduras,2017,0
 Honduras,2018,0
-Honduras,2019,0
+Honduras,2019,36
 Honduras,2020,0
 Honduras,2021,0
 Honduras,2022,0
-Honduras,2023,0
+Honduras,2023,109
 Hungary,1989,0
 Hungary,1990,0
 Hungary,1991,0
@@ -2834,58 +2834,58 @@ Iceland,2020,0
 Iceland,2021,0
 Iceland,2022,0
 Iceland,2023,0
-India,1989,25
-India,1990,25
-India,1991,72
-India,1992,25
-India,1993,0
-India,1994,38
-India,1995,0
-India,1996,30
-India,1997,94
-India,1998,70
-India,1999,906
-India,2000,164
-India,2001,38
-India,2002,134
-India,2003,98
-India,2004,0
-India,2005,0
-India,2006,0
-India,2007,0
-India,2008,0
-India,2009,0
-India,2010,0
-India,2011,0
-India,2012,0
-India,2013,18
-India,2014,30
-India,2015,33
-India,2016,60
-India,2017,117
-India,2018,110
-India,2019,121
-India,2020,166
-India,2021,0
-India,2022,0
-India,2023,0
+India,1989,1794
+India,1990,4785
+India,1991,3681
+India,1992,4105
+India,1993,2261
+India,1994,1415
+India,1995,1021
+India,1996,1253
+India,1997,1413
+India,1998,1481
+India,1999,2431
+India,2000,3989
+India,2001,1800
+India,2002,2955
+India,2003,2223
+India,2004,2431
+India,2005,1843
+India,2006,2071
+India,2007,1627
+India,2008,1766
+India,2009,1497
+India,2010,1548
+India,2011,690
+India,2012,749
+India,2013,597
+India,2014,739
+India,2015,563
+India,2016,740
+India,2017,873
+India,2018,917
+India,2019,715
+India,2020,752
+India,2021,470
+India,2022,358
+India,2023,360
 Indonesia,1989,0
-Indonesia,1990,0
-Indonesia,1991,0
+Indonesia,1990,192
+Indonesia,1991,132
 Indonesia,1992,0
 Indonesia,1993,0
 Indonesia,1994,0
-Indonesia,1995,0
+Indonesia,1995,11
 Indonesia,1996,0
-Indonesia,1997,0
-Indonesia,1998,0
-Indonesia,1999,0
-Indonesia,2000,0
-Indonesia,2001,0
-Indonesia,2002,0
-Indonesia,2003,0
-Indonesia,2004,0
-Indonesia,2005,0
+Indonesia,1997,361
+Indonesia,1998,60
+Indonesia,1999,1644
+Indonesia,2000,913
+Indonesia,2001,881
+Indonesia,2002,731
+Indonesia,2003,1054
+Indonesia,2004,1061
+Indonesia,2005,213
 Indonesia,2006,0
 Indonesia,2007,0
 Indonesia,2008,0
@@ -2898,83 +2898,83 @@ Indonesia,2014,0
 Indonesia,2015,0
 Indonesia,2016,0
 Indonesia,2017,0
-Indonesia,2018,0
+Indonesia,2018,25
 Indonesia,2019,0
 Indonesia,2020,0
-Indonesia,2021,0
-Indonesia,2022,0
-Indonesia,2023,0
+Indonesia,2021,51
+Indonesia,2022,46
+Indonesia,2023,87
 Iran,1989,0
-Iran,1990,0
-Iran,1991,0
+Iran,1990,31
+Iran,1991,44
 Iran,1992,0
-Iran,1993,0
+Iran,1993,155
 Iran,1994,0
 Iran,1995,0
-Iran,1996,0
-Iran,1997,0
+Iran,1996,34
+Iran,1997,40
 Iran,1998,0
-Iran,1999,0
-Iran,2000,0
-Iran,2001,0
-Iran,2002,0
+Iran,1999,11
+Iran,2000,40
+Iran,2001,129
+Iran,2002,25
 Iran,2003,0
 Iran,2004,0
-Iran,2005,0
-Iran,2006,0
-Iran,2007,0
-Iran,2008,0
-Iran,2009,0
-Iran,2010,0
-Iran,2011,0
+Iran,2005,53
+Iran,2006,57
+Iran,2007,86
+Iran,2008,125
+Iran,2009,208
+Iran,2010,77
+Iran,2011,219
 Iran,2012,0
 Iran,2013,0
 Iran,2014,0
 Iran,2015,0
-Iran,2016,0
-Iran,2017,0
-Iran,2018,0
-Iran,2019,0
-Iran,2020,177
-Iran,2021,0
-Iran,2022,0
-Iran,2023,0
-Iraq,1989,0
-Iraq,1990,0
-Iraq,1991,21247
-Iraq,1992,0
-Iraq,1993,0
-Iraq,1994,0
-Iraq,1995,0
-Iraq,1996,0
-Iraq,1997,0
-Iraq,1998,0
-Iraq,1999,0
-Iraq,2000,0
-Iraq,2001,0
-Iraq,2002,0
-Iraq,2003,7927
-Iraq,2004,0
-Iraq,2005,0
-Iraq,2006,0
-Iraq,2007,0
-Iraq,2008,0
-Iraq,2009,0
-Iraq,2010,0
-Iraq,2011,0
-Iraq,2012,0
-Iraq,2013,0
-Iraq,2014,0
-Iraq,2015,0
-Iraq,2016,0
-Iraq,2017,0
-Iraq,2018,0
-Iraq,2019,0
-Iraq,2020,11
-Iraq,2021,32
-Iraq,2022,0
-Iraq,2023,0
-Ireland,1989,0
+Iran,2016,70
+Iran,2017,29
+Iran,2018,163
+Iran,2019,301
+Iran,2020,241
+Iran,2021,46
+Iran,2022,228
+Iran,2023,60
+Iraq,1989,56
+Iraq,1990,117
+Iraq,1991,24492
+Iraq,1992,844
+Iraq,1993,431
+Iraq,1994,971
+Iraq,1995,1443
+Iraq,1996,911
+Iraq,1997,2365
+Iraq,1998,97
+Iraq,1999,311
+Iraq,2000,185
+Iraq,2001,19
+Iraq,2002,86
+Iraq,2003,7993
+Iraq,2004,4354
+Iraq,2005,3511
+Iraq,2006,4582
+Iraq,2007,4489
+Iraq,2008,2770
+Iraq,2009,1716
+Iraq,2010,1853
+Iraq,2011,1370
+Iraq,2012,1413
+Iraq,2013,3997
+Iraq,2014,16437
+Iraq,2015,11302
+Iraq,2016,11985
+Iraq,2017,11434
+Iraq,2018,1493
+Iraq,2019,937
+Iraq,2020,923
+Iraq,2021,1033
+Iraq,2022,953
+Iraq,2023,459
+Ireland,1989,1
 Ireland,1990,0
 Ireland,1991,0
 Ireland,1992,0
@@ -3009,41 +3009,41 @@ Ireland,2020,0
 Ireland,2021,0
 Ireland,2022,0
 Ireland,2023,0
-Israel,1989,0
-Israel,1990,0
-Israel,1991,0
-Israel,1992,0
-Israel,1993,0
-Israel,1994,0
-Israel,1995,0
-Israel,1996,0
+Israel,1989,8
+Israel,1990,2
+Israel,1991,7
+Israel,1992,2
+Israel,1993,18
+Israel,1994,51
+Israel,1995,26
+Israel,1996,51
 Israel,1997,0
 Israel,1998,0
 Israel,1999,0
-Israel,2000,0
-Israel,2001,0
-Israel,2002,0
-Israel,2003,0
-Israel,2004,0
-Israel,2005,0
-Israel,2006,0
-Israel,2007,0
-Israel,2008,0
-Israel,2009,0
-Israel,2010,0
-Israel,2011,0
-Israel,2012,0
+Israel,2000,2
+Israel,2001,124
+Israel,2002,309
+Israel,2003,141
+Israel,2004,98
+Israel,2005,51
+Israel,2006,293
+Israel,2007,18
+Israel,2008,21
+Israel,2009,25
+Israel,2010,4
+Israel,2011,3
+Israel,2012,1
 Israel,2013,0
-Israel,2014,0
-Israel,2015,0
+Israel,2014,125
+Israel,2015,4
 Israel,2016,0
 Israel,2017,0
-Israel,2018,0
-Israel,2019,0
+Israel,2018,6
+Israel,2019,2
 Israel,2020,0
-Israel,2021,0
+Israel,2021,24
 Israel,2022,0
-Israel,2023,0
+Israel,2023,1288
 Italy,1989,0
 Italy,1990,0
 Italy,1991,0
@@ -3091,7 +3091,7 @@ Jamaica,1997,0
 Jamaica,1998,0
 Jamaica,1999,0
 Jamaica,2000,0
-Jamaica,2001,0
+Jamaica,2001,116
 Jamaica,2002,0
 Jamaica,2003,0
 Jamaica,2004,0
@@ -3152,7 +3152,7 @@ Japan,2023,0
 Jordan,1989,0
 Jordan,1990,0
 Jordan,1991,0
-Jordan,1992,0
+Jordan,1992,1
 Jordan,1993,0
 Jordan,1994,0
 Jordan,1995,0
@@ -3165,7 +3165,7 @@ Jordan,2001,0
 Jordan,2002,0
 Jordan,2003,0
 Jordan,2004,0
-Jordan,2005,0
+Jordan,2005,59
 Jordan,2006,0
 Jordan,2007,0
 Jordan,2008,0
@@ -3175,8 +3175,8 @@ Jordan,2011,0
 Jordan,2012,0
 Jordan,2013,0
 Jordan,2014,0
-Jordan,2015,0
-Jordan,2016,0
+Jordan,2015,1
+Jordan,2016,45
 Jordan,2017,0
 Jordan,2018,0
 Jordan,2019,0
@@ -3219,41 +3219,41 @@ Kazakhstan,2020,0
 Kazakhstan,2021,0
 Kazakhstan,2022,0
 Kazakhstan,2023,0
-Kenya,1989,0
+Kenya,1989,60
 Kenya,1990,0
 Kenya,1991,0
-Kenya,1992,0
-Kenya,1993,0
-Kenya,1994,0
-Kenya,1995,0
-Kenya,1996,0
-Kenya,1997,0
-Kenya,1998,0
-Kenya,1999,0
-Kenya,2000,0
-Kenya,2001,0
-Kenya,2002,0
+Kenya,1992,151
+Kenya,1993,279
+Kenya,1994,28
+Kenya,1995,44
+Kenya,1996,145
+Kenya,1997,185
+Kenya,1998,321
+Kenya,1999,208
+Kenya,2000,218
+Kenya,2001,171
+Kenya,2002,13
 Kenya,2003,0
-Kenya,2004,0
-Kenya,2005,0
-Kenya,2006,0
-Kenya,2007,0
-Kenya,2008,0
-Kenya,2009,0
-Kenya,2010,0
-Kenya,2011,0
-Kenya,2012,0
-Kenya,2013,0
-Kenya,2014,0
-Kenya,2015,0
-Kenya,2016,0
-Kenya,2017,0
-Kenya,2018,0
-Kenya,2019,0
-Kenya,2020,0
-Kenya,2021,0
-Kenya,2022,0
-Kenya,2023,0
+Kenya,2004,3
+Kenya,2005,126
+Kenya,2006,111
+Kenya,2007,169
+Kenya,2008,733
+Kenya,2009,124
+Kenya,2010,55
+Kenya,2011,98
+Kenya,2012,265
+Kenya,2013,212
+Kenya,2014,244
+Kenya,2015,350
+Kenya,2016,88
+Kenya,2017,144
+Kenya,2018,103
+Kenya,2019,158
+Kenya,2020,99
+Kenya,2021,102
+Kenya,2022,81
+Kenya,2023,224
 Kiribati,1989,0
 Kiribati,1990,0
 Kiribati,1991,0
@@ -3298,10 +3298,10 @@ Kosovo,1994,0
 Kosovo,1995,0
 Kosovo,1996,0
 Kosovo,1997,0
-Kosovo,1998,0
-Kosovo,1999,0
+Kosovo,1998,1432
+Kosovo,1999,1291
 Kosovo,2000,0
-Kosovo,2001,0
+Kosovo,2001,6
 Kosovo,2002,0
 Kosovo,2003,0
 Kosovo,2004,0
@@ -3325,13 +3325,13 @@ Kosovo,2021,0
 Kosovo,2022,0
 Kosovo,2023,0
 Kuwait,1989,0
-Kuwait,1990,1058
-Kuwait,1991,446
+Kuwait,1990,1329
+Kuwait,1991,460
 Kuwait,1992,0
 Kuwait,1993,0
 Kuwait,1994,0
 Kuwait,1995,0
-Kuwait,1996,0
+Kuwait,1996,1
 Kuwait,1997,0
 Kuwait,1998,0
 Kuwait,1999,0
@@ -3350,7 +3350,7 @@ Kuwait,2011,0
 Kuwait,2012,0
 Kuwait,2013,0
 Kuwait,2014,0
-Kuwait,2015,0
+Kuwait,2015,26
 Kuwait,2016,0
 Kuwait,2017,0
 Kuwait,2018,0
@@ -3360,7 +3360,7 @@ Kuwait,2021,0
 Kuwait,2022,0
 Kuwait,2023,0
 Kyrgyzstan,1989,0
-Kyrgyzstan,1990,0
+Kyrgyzstan,1990,171
 Kyrgyzstan,1991,0
 Kyrgyzstan,1992,0
 Kyrgyzstan,1993,0
@@ -3369,8 +3369,8 @@ Kyrgyzstan,1995,0
 Kyrgyzstan,1996,0
 Kyrgyzstan,1997,0
 Kyrgyzstan,1998,0
-Kyrgyzstan,1999,0
-Kyrgyzstan,2000,0
+Kyrgyzstan,1999,3
+Kyrgyzstan,2000,172
 Kyrgyzstan,2001,0
 Kyrgyzstan,2002,0
 Kyrgyzstan,2003,0
@@ -3380,7 +3380,7 @@ Kyrgyzstan,2006,0
 Kyrgyzstan,2007,0
 Kyrgyzstan,2008,0
 Kyrgyzstan,2009,0
-Kyrgyzstan,2010,0
+Kyrgyzstan,2010,44
 Kyrgyzstan,2011,0
 Kyrgyzstan,2012,0
 Kyrgyzstan,2013,0
@@ -3394,8 +3394,8 @@ Kyrgyzstan,2020,0
 Kyrgyzstan,2021,11
 Kyrgyzstan,2022,65
 Kyrgyzstan,2023,0
-Laos,1989,0
-Laos,1990,0
+Laos,1989,30
+Laos,1990,249
 Laos,1991,0
 Laos,1992,0
 Laos,1993,0
@@ -3411,7 +3411,7 @@ Laos,2002,0
 Laos,2003,0
 Laos,2004,0
 Laos,2005,0
-Laos,2006,0
+Laos,2006,73
 Laos,2007,0
 Laos,2008,0
 Laos,2009,0
@@ -3431,7 +3431,7 @@ Laos,2022,0
 Laos,2023,0
 Latvia,1989,0
 Latvia,1990,0
-Latvia,1991,0
+Latvia,1991,3
 Latvia,1992,0
 Latvia,1993,0
 Latvia,1994,0
@@ -3464,41 +3464,41 @@ Latvia,2020,0
 Latvia,2021,0
 Latvia,2022,0
 Latvia,2023,0
-Lebanon,1989,0
-Lebanon,1990,0
-Lebanon,1991,0
-Lebanon,1992,0
-Lebanon,1993,0
-Lebanon,1994,0
-Lebanon,1995,0
-Lebanon,1996,0
-Lebanon,1997,0
-Lebanon,1998,0
-Lebanon,1999,0
-Lebanon,2000,0
+Lebanon,1989,1069
+Lebanon,1990,1888
+Lebanon,1991,40
+Lebanon,1992,119
+Lebanon,1993,148
+Lebanon,1994,131
+Lebanon,1995,109
+Lebanon,1996,192
+Lebanon,1997,82
+Lebanon,1998,85
+Lebanon,1999,71
+Lebanon,2000,27
 Lebanon,2001,0
 Lebanon,2002,0
 Lebanon,2003,0
 Lebanon,2004,0
 Lebanon,2005,0
-Lebanon,2006,0
+Lebanon,2006,752
 Lebanon,2007,0
-Lebanon,2008,0
+Lebanon,2008,38
 Lebanon,2009,0
 Lebanon,2010,0
-Lebanon,2011,0
-Lebanon,2012,0
-Lebanon,2013,0
-Lebanon,2014,0
-Lebanon,2015,0
-Lebanon,2016,0
-Lebanon,2017,0
+Lebanon,2011,1
+Lebanon,2012,52
+Lebanon,2013,179
+Lebanon,2014,227
+Lebanon,2015,197
+Lebanon,2016,19
+Lebanon,2017,297
 Lebanon,2018,0
 Lebanon,2019,0
 Lebanon,2020,0
 Lebanon,2021,0
 Lebanon,2022,0
-Lebanon,2023,0
+Lebanon,2023,129
 Lesotho,1989,0
 Lesotho,1990,0
 Lesotho,1991,0
@@ -3508,7 +3508,7 @@ Lesotho,1994,0
 Lesotho,1995,0
 Lesotho,1996,0
 Lesotho,1997,0
-Lesotho,1998,0
+Lesotho,1998,78
 Lesotho,1999,0
 Lesotho,2000,0
 Lesotho,2001,0
@@ -3534,21 +3534,21 @@ Lesotho,2020,0
 Lesotho,2021,0
 Lesotho,2022,0
 Lesotho,2023,0
-Liberia,1989,0
-Liberia,1990,0
-Liberia,1991,0
-Liberia,1992,0
-Liberia,1993,0
-Liberia,1994,0
-Liberia,1995,0
-Liberia,1996,0
-Liberia,1997,0
+Liberia,1989,27
+Liberia,1990,3729
+Liberia,1991,585
+Liberia,1992,447
+Liberia,1993,2583
+Liberia,1994,4155
+Liberia,1995,2265
+Liberia,1996,3069
+Liberia,1997,38
 Liberia,1998,0
-Liberia,1999,0
-Liberia,2000,0
-Liberia,2001,0
-Liberia,2002,0
-Liberia,2003,0
+Liberia,1999,70
+Liberia,2000,101
+Liberia,2001,461
+Liberia,2002,2259
+Liberia,2003,3281
 Liberia,2004,0
 Liberia,2005,0
 Liberia,2006,0
@@ -3575,12 +3575,12 @@ Libya,1991,0
 Libya,1992,0
 Libya,1993,0
 Libya,1994,0
-Libya,1995,0
+Libya,1995,24
 Libya,1996,0
 Libya,1997,0
 Libya,1998,0
 Libya,1999,0
-Libya,2000,0
+Libya,2000,217
 Libya,2001,0
 Libya,2002,0
 Libya,2003,0
@@ -3591,16 +3591,16 @@ Libya,2007,0
 Libya,2008,0
 Libya,2009,0
 Libya,2010,0
-Libya,2011,0
-Libya,2012,0
-Libya,2013,0
-Libya,2014,0
-Libya,2015,0
-Libya,2016,0
-Libya,2017,0
-Libya,2018,0
-Libya,2019,0
-Libya,2020,0
+Libya,2011,3917
+Libya,2012,377
+Libya,2013,34
+Libya,2014,1439
+Libya,2015,1573
+Libya,2016,2325
+Libya,2017,1091
+Libya,2018,664
+Libya,2019,1785
+Libya,2020,672
 Libya,2021,0
 Libya,2022,0
 Libya,2023,0
@@ -3641,7 +3641,7 @@ Liechtenstein,2022,0
 Liechtenstein,2023,0
 Lithuania,1989,0
 Lithuania,1990,0
-Lithuania,1991,0
+Lithuania,1991,15
 Lithuania,1992,0
 Lithuania,1993,0
 Lithuania,1994,0
@@ -3722,14 +3722,14 @@ Madagascar,1998,0
 Madagascar,1999,0
 Madagascar,2000,0
 Madagascar,2001,0
-Madagascar,2002,0
+Madagascar,2002,79
 Madagascar,2003,0
 Madagascar,2004,0
 Madagascar,2005,0
 Madagascar,2006,0
 Madagascar,2007,0
 Madagascar,2008,0
-Madagascar,2009,0
+Madagascar,2009,113
 Madagascar,2010,0
 Madagascar,2011,0
 Madagascar,2012,0
@@ -3802,16 +3802,16 @@ Malaysia,2008,0
 Malaysia,2009,0
 Malaysia,2010,0
 Malaysia,2011,0
-Malaysia,2012,0
-Malaysia,2013,0
-Malaysia,2014,0
+Malaysia,2012,1
+Malaysia,2013,70
+Malaysia,2014,2
 Malaysia,2015,0
-Malaysia,2016,0
-Malaysia,2017,0
+Malaysia,2016,1
+Malaysia,2017,3
 Malaysia,2018,0
 Malaysia,2019,0
 Malaysia,2020,0
-Malaysia,2021,0
+Malaysia,2021,1
 Malaysia,2022,0
 Malaysia,2023,0
 Maldives,1989,0
@@ -3850,40 +3850,40 @@ Maldives,2021,0
 Maldives,2022,0
 Maldives,2023,0
 Mali,1989,0
-Mali,1990,0
-Mali,1991,0
-Mali,1992,0
+Mali,1990,582
+Mali,1991,235
+Mali,1992,77
 Mali,1993,0
-Mali,1994,0
+Mali,1994,729
 Mali,1995,0
 Mali,1996,0
-Mali,1997,0
+Mali,1997,22
 Mali,1998,0
-Mali,1999,0
+Mali,1999,59
 Mali,2000,0
 Mali,2001,0
 Mali,2002,0
 Mali,2003,0
 Mali,2004,0
-Mali,2005,0
+Mali,2005,12
 Mali,2006,0
-Mali,2007,0
-Mali,2008,0
-Mali,2009,0
-Mali,2010,0
-Mali,2011,0
-Mali,2012,0
-Mali,2013,0
-Mali,2014,0
-Mali,2015,0
-Mali,2016,0
-Mali,2017,0
-Mali,2018,0
-Mali,2019,0
-Mali,2020,0
-Mali,2021,0
-Mali,2022,0
-Mali,2023,0
+Mali,2007,3
+Mali,2008,106
+Mali,2009,124
+Mali,2010,28
+Mali,2011,1
+Mali,2012,328
+Mali,2013,830
+Mali,2014,280
+Mali,2015,214
+Mali,2016,156
+Mali,2017,517
+Mali,2018,1267
+Mali,2019,1157
+Mali,2020,1477
+Mali,2021,1266
+Mali,2022,3612
+Mali,2023,2001
 Malta,1989,0
 Malta,1990,0
 Malta,1991,0
@@ -3954,8 +3954,8 @@ Marshall Islands,2020,0
 Marshall Islands,2021,0
 Marshall Islands,2022,0
 Marshall Islands,2023,0
-Mauritania,1989,0
-Mauritania,1990,0
+Mauritania,1989,125
+Mauritania,1990,28
 Mauritania,1991,0
 Mauritania,1992,0
 Mauritania,1993,0
@@ -3972,10 +3972,10 @@ Mauritania,2003,0
 Mauritania,2004,0
 Mauritania,2005,0
 Mauritania,2006,0
-Mauritania,2007,0
+Mauritania,2007,4
 Mauritania,2008,0
-Mauritania,2009,0
-Mauritania,2010,0
+Mauritania,2009,1
+Mauritania,2010,1
 Mauritania,2011,0
 Mauritania,2012,0
 Mauritania,2013,0
@@ -3986,7 +3986,7 @@ Mauritania,2017,0
 Mauritania,2018,0
 Mauritania,2019,0
 Mauritania,2020,0
-Mauritania,2021,0
+Mauritania,2021,2
 Mauritania,2022,0
 Mauritania,2023,0
 Mauritius,1989,0
@@ -4024,41 +4024,41 @@ Mauritius,2020,0
 Mauritius,2021,0
 Mauritius,2022,0
 Mauritius,2023,0
-Mexico,1989,0
-Mexico,1990,0
-Mexico,1991,0
+Mexico,1989,2
+Mexico,1990,10
+Mexico,1991,1
 Mexico,1992,0
-Mexico,1993,0
-Mexico,1994,0
-Mexico,1995,0
-Mexico,1996,0
-Mexico,1997,0
+Mexico,1993,27
+Mexico,1994,145
+Mexico,1995,1
+Mexico,1996,37
+Mexico,1997,45
 Mexico,1998,0
 Mexico,1999,0
 Mexico,2000,0
 Mexico,2001,0
-Mexico,2002,0
+Mexico,2002,26
 Mexico,2003,0
-Mexico,2004,0
-Mexico,2005,0
-Mexico,2006,0
-Mexico,2007,0
-Mexico,2008,0
-Mexico,2009,0
-Mexico,2010,0
-Mexico,2011,0
-Mexico,2012,0
-Mexico,2013,0
-Mexico,2014,0
-Mexico,2015,0
-Mexico,2016,0
-Mexico,2017,0
-Mexico,2018,0
-Mexico,2019,0
-Mexico,2020,0
-Mexico,2021,0
-Mexico,2022,0
-Mexico,2023,0
+Mexico,2004,212
+Mexico,2005,204
+Mexico,2006,669
+Mexico,2007,1938
+Mexico,2008,3840
+Mexico,2009,5600
+Mexico,2010,6202
+Mexico,2011,4959
+Mexico,2012,5902
+Mexico,2013,4486
+Mexico,2014,3292
+Mexico,2015,4484
+Mexico,2016,4275
+Mexico,2017,9716
+Mexico,2018,11883
+Mexico,2019,11942
+Mexico,2020,15095
+Mexico,2021,16833
+Mexico,2022,14289
+Mexico,2023,13806
 Micronesia (country),1989,0
 Micronesia (country),1990,0
 Micronesia (country),1991,0
@@ -4097,7 +4097,7 @@ Micronesia (country),2023,0
 Moldova,1989,0
 Moldova,1990,0
 Moldova,1991,0
-Moldova,1992,0
+Moldova,1992,585
 Moldova,1993,0
 Moldova,1994,0
 Moldova,1995,0
@@ -4208,8 +4208,8 @@ Montenegro,1994,0
 Montenegro,1995,0
 Montenegro,1996,0
 Montenegro,1997,0
-Montenegro,1998,0
-Montenegro,1999,0
+Montenegro,1998,2
+Montenegro,1999,9
 Montenegro,2000,0
 Montenegro,2001,0
 Montenegro,2002,0
@@ -4248,7 +4248,7 @@ Morocco,1999,0
 Morocco,2000,0
 Morocco,2001,0
 Morocco,2002,0
-Morocco,2003,0
+Morocco,2003,34
 Morocco,2004,0
 Morocco,2005,0
 Morocco,2006,0
@@ -4256,7 +4256,7 @@ Morocco,2007,0
 Morocco,2008,0
 Morocco,2009,0
 Morocco,2010,0
-Morocco,2011,0
+Morocco,2011,17
 Morocco,2012,0
 Morocco,2013,0
 Morocco,2014,0
@@ -4269,10 +4269,10 @@ Morocco,2020,0
 Morocco,2021,0
 Morocco,2022,0
 Morocco,2023,0
-Mozambique,1989,0
-Mozambique,1990,0
-Mozambique,1991,0
-Mozambique,1992,0
+Mozambique,1989,1552
+Mozambique,1990,1759
+Mozambique,1991,1961
+Mozambique,1992,521
 Mozambique,1993,0
 Mozambique,1994,0
 Mozambique,1995,0
@@ -4293,53 +4293,53 @@ Mozambique,2009,0
 Mozambique,2010,0
 Mozambique,2011,0
 Mozambique,2012,0
-Mozambique,2013,0
-Mozambique,2014,0
+Mozambique,2013,42
+Mozambique,2014,30
 Mozambique,2015,0
-Mozambique,2016,0
+Mozambique,2016,55
 Mozambique,2017,0
-Mozambique,2018,0
-Mozambique,2019,0
-Mozambique,2020,0
-Mozambique,2021,0
-Mozambique,2022,0
-Mozambique,2023,0
-Myanmar,1989,0
-Myanmar,1990,0
-Myanmar,1991,0
-Myanmar,1992,0
-Myanmar,1993,0
-Myanmar,1994,0
-Myanmar,1995,0
-Myanmar,1996,0
-Myanmar,1997,0
-Myanmar,1998,0
-Myanmar,1999,0
-Myanmar,2000,0
-Myanmar,2001,0
-Myanmar,2002,0
-Myanmar,2003,0
-Myanmar,2004,0
-Myanmar,2005,0
-Myanmar,2006,0
-Myanmar,2007,0
-Myanmar,2008,0
-Myanmar,2009,0
-Myanmar,2010,0
-Myanmar,2011,0
-Myanmar,2012,0
-Myanmar,2013,0
-Myanmar,2014,0
-Myanmar,2015,0
-Myanmar,2016,0
-Myanmar,2017,0
-Myanmar,2018,0
-Myanmar,2019,0
-Myanmar,2020,0
-Myanmar,2021,0
-Myanmar,2022,0
-Myanmar,2023,0
-Namibia,1989,0
+Mozambique,2018,170
+Mozambique,2019,594
+Mozambique,2020,1627
+Mozambique,2021,1871
+Mozambique,2022,710
+Mozambique,2023,260
+Myanmar,1989,429
+Myanmar,1990,658
+Myanmar,1991,1359
+Myanmar,1992,1179
+Myanmar,1993,121
+Myanmar,1994,708
+Myanmar,1995,1413
+Myanmar,1996,556
+Myanmar,1997,751
+Myanmar,1998,497
+Myanmar,1999,318
+Myanmar,2000,704
+Myanmar,2001,307
+Myanmar,2002,429
+Myanmar,2003,218
+Myanmar,2004,139
+Myanmar,2005,355
+Myanmar,2006,414
+Myanmar,2007,635
+Myanmar,2008,92
+Myanmar,2009,195
+Myanmar,2010,147
+Myanmar,2011,796
+Myanmar,2012,832
+Myanmar,2013,344
+Myanmar,2014,207
+Myanmar,2015,653
+Myanmar,2016,156
+Myanmar,2017,2381
+Myanmar,2018,104
+Myanmar,2019,558
+Myanmar,2020,168
+Myanmar,2021,1689
+Myanmar,2022,2720
+Myanmar,2023,3077
+Namibia,1989,361
 Namibia,1990,0
 Namibia,1991,0
 Namibia,1992,0
@@ -4349,8 +4349,8 @@ Namibia,1995,0
 Namibia,1996,0
 Namibia,1997,0
 Namibia,1998,0
-Namibia,1999,0
-Namibia,2000,0
+Namibia,1999,1
+Namibia,2000,61
 Namibia,2001,0
 Namibia,2002,0
 Namibia,2003,0
@@ -4411,23 +4411,23 @@ Nauru,2022,0
 Nauru,2023,0
 Nepal,1989,0
 Nepal,1990,0
-Nepal,1991,0
+Nepal,1991,2
 Nepal,1992,0
 Nepal,1993,0
 Nepal,1994,0
 Nepal,1995,0
-Nepal,1996,0
-Nepal,1997,0
-Nepal,1998,0
-Nepal,1999,0
-Nepal,2000,0
-Nepal,2001,0
-Nepal,2002,0
-Nepal,2003,0
-Nepal,2004,0
-Nepal,2005,0
-Nepal,2006,0
-Nepal,2007,0
+Nepal,1996,71
+Nepal,1997,40
+Nepal,1998,356
+Nepal,1999,295
+Nepal,2000,365
+Nepal,2001,569
+Nepal,2002,4432
+Nepal,2003,1732
+Nepal,2004,2456
+Nepal,2005,1399
+Nepal,2006,566
+Nepal,2007,30
 Nepal,2008,0
 Nepal,2009,0
 Nepal,2010,0
@@ -4445,7 +4445,7 @@ Nepal,2021,0
 Nepal,2022,0
 Nepal,2023,0
 Netherlands,1989,0
-Netherlands,1990,0
+Netherlands,1990,2
 Netherlands,1991,0
 Netherlands,1992,0
 Netherlands,1993,0
@@ -4514,8 +4514,8 @@ New Zealand,2020,0
 New Zealand,2021,0
 New Zealand,2022,0
 New Zealand,2023,0
-Nicaragua,1989,0
-Nicaragua,1990,0
+Nicaragua,1989,526
+Nicaragua,1990,39
 Nicaragua,1991,0
 Nicaragua,1992,0
 Nicaragua,1993,0
@@ -4549,76 +4549,76 @@ Nicaragua,2020,0
 Nicaragua,2021,0
 Nicaragua,2022,0
 Nicaragua,2023,0
-Niger,1989,0
-Niger,1990,0
-Niger,1991,0
-Niger,1992,0
+Niger,1989,170
+Niger,1990,200
+Niger,1991,40
+Niger,1992,29
 Niger,1993,0
-Niger,1994,0
-Niger,1995,0
+Niger,1994,50
+Niger,1995,65
 Niger,1996,0
-Niger,1997,0
-Niger,1998,0
+Niger,1997,74
+Niger,1998,147
 Niger,1999,0
 Niger,2000,0
 Niger,2001,0
 Niger,2002,0
 Niger,2003,0
-Niger,2004,0
+Niger,2004,4
 Niger,2005,0
 Niger,2006,0
-Niger,2007,0
-Niger,2008,0
+Niger,2007,81
+Niger,2008,47
 Niger,2009,0
 Niger,2010,0
-Niger,2011,0
+Niger,2011,3
 Niger,2012,0
-Niger,2013,0
+Niger,2013,31
 Niger,2014,0
-Niger,2015,0
-Niger,2016,0
-Niger,2017,0
-Niger,2018,0
-Niger,2019,0
-Niger,2020,0
-Niger,2021,0
-Niger,2022,0
-Niger,2023,0
+Niger,2015,533
+Niger,2016,300
+Niger,2017,177
+Niger,2018,186
+Niger,2019,476
+Niger,2020,835
+Niger,2021,1173
+Niger,2022,678
+Niger,2023,524
 Nigeria,1989,0
-Nigeria,1990,0
-Nigeria,1991,0
-Nigeria,1992,0
-Nigeria,1993,0
-Nigeria,1994,0
+Nigeria,1990,80
+Nigeria,1991,380
+Nigeria,1992,942
+Nigeria,1993,1175
+Nigeria,1994,86
 Nigeria,1995,0
-Nigeria,1996,0
-Nigeria,1997,0
-Nigeria,1998,0
-Nigeria,1999,0
-Nigeria,2000,0
-Nigeria,2001,0
-Nigeria,2002,0
-Nigeria,2003,0
-Nigeria,2004,0
-Nigeria,2005,0
-Nigeria,2006,0
-Nigeria,2007,0
-Nigeria,2008,0
-Nigeria,2009,0
-Nigeria,2010,0
-Nigeria,2011,0
-Nigeria,2012,0
-Nigeria,2013,0
-Nigeria,2014,0
-Nigeria,2015,0
-Nigeria,2016,0
-Nigeria,2017,0
-Nigeria,2018,0
-Nigeria,2019,0
-Nigeria,2020,0
-Nigeria,2021,0
-Nigeria,2022,0
-Nigeria,2023,0
+Nigeria,1996,80
+Nigeria,1997,562
+Nigeria,1998,323
+Nigeria,1999,3519
+Nigeria,2000,2085
+Nigeria,2001,2362
+Nigeria,2002,585
+Nigeria,2003,426
+Nigeria,2004,2088
+Nigeria,2005,162
+Nigeria,2006,200
+Nigeria,2007,100
+Nigeria,2008,379
+Nigeria,2009,438
+Nigeria,2010,888
+Nigeria,2011,1821
+Nigeria,2012,1951
+Nigeria,2013,3288
+Nigeria,2014,9943
+Nigeria,2015,8500
+Nigeria,2016,3832
+Nigeria,2017,3576
+Nigeria,2018,3121
+Nigeria,2019,2285
+Nigeria,2020,2912
+Nigeria,2021,3038
+Nigeria,2022,2816
+Nigeria,2023,3783
 North Korea,1989,0
 North Korea,1990,0
 North Korea,1991,0
@@ -4664,9 +4664,9 @@ North Macedonia,1995,0
 North Macedonia,1996,0
 North Macedonia,1997,0
 North Macedonia,1998,0
-North Macedonia,1999,0
+North Macedonia,1999,7
 North Macedonia,2000,0
-North Macedonia,2001,0
+North Macedonia,2001,66
 North Macedonia,2002,0
 North Macedonia,2003,0
 North Macedonia,2004,0
@@ -4759,41 +4759,41 @@ Oman,2020,0
 Oman,2021,0
 Oman,2022,0
 Oman,2023,0
-Pakistan,1989,0
-Pakistan,1990,3
+Pakistan,1989,114
+Pakistan,1990,379
 Pakistan,1991,27
-Pakistan,1992,0
-Pakistan,1993,0
-Pakistan,1994,4
-Pakistan,1995,0
-Pakistan,1996,5
-Pakistan,1997,33
-Pakistan,1998,77
-Pakistan,1999,28
-Pakistan,2000,61
-Pakistan,2001,10
-Pakistan,2002,78
-Pakistan,2003,139
-Pakistan,2004,0
-Pakistan,2005,0
-Pakistan,2006,0
-Pakistan,2007,0
-Pakistan,2008,0
-Pakistan,2009,0
-Pakistan,2010,0
-Pakistan,2011,0
-Pakistan,2012,0
-Pakistan,2013,13
-Pakistan,2014,19
-Pakistan,2015,30
-Pakistan,2016,40
-Pakistan,2017,34
-Pakistan,2018,19
-Pakistan,2019,43
-Pakistan,2020,21
-Pakistan,2021,0
-Pakistan,2022,0
-Pakistan,2023,0
+Pakistan,1992,50
+Pakistan,1993,33
+Pakistan,1994,129
+Pakistan,1995,111
+Pakistan,1996,47
+Pakistan,1997,106
+Pakistan,1998,144
+Pakistan,1999,61
+Pakistan,2000,92
+Pakistan,2001,30
+Pakistan,2002,119
+Pakistan,2003,268
+Pakistan,2004,435
+Pakistan,2005,137
+Pakistan,2006,449
+Pakistan,2007,1484
+Pakistan,2008,4605
+Pakistan,2009,7514
+Pakistan,2010,7227
+Pakistan,2011,3439
+Pakistan,2012,3503
+Pakistan,2013,2848
+Pakistan,2014,3547
+Pakistan,2015,2427
+Pakistan,2016,1080
+Pakistan,2017,904
+Pakistan,2018,488
+Pakistan,2019,322
+Pakistan,2020,338
+Pakistan,2021,439
+Pakistan,2022,738
+Pakistan,2023,1143
 Palau,1989,0
 Palau,1990,0
 Palau,1991,0
@@ -4829,42 +4829,42 @@ Palau,2020,0
 Palau,2021,0
 Palau,2022,0
 Palau,2023,0
-Palestine,1989,0
-Palestine,1990,0
-Palestine,1991,0
-Palestine,1992,0
-Palestine,1993,0
-Palestine,1994,0
-Palestine,1995,0
-Palestine,1996,0
+Palestine,1989,59
+Palestine,1990,16
+Palestine,1991,9
+Palestine,1992,29
+Palestine,1993,31
+Palestine,1994,47
+Palestine,1995,9
+Palestine,1996,64
 Palestine,1997,0
 Palestine,1998,0
 Palestine,1999,0
-Palestine,2000,0
-Palestine,2001,0
-Palestine,2002,0
-Palestine,2003,0
-Palestine,2004,0
-Palestine,2005,0
-Palestine,2006,0
-Palestine,2007,0
-Palestine,2008,0
-Palestine,2009,0
-Palestine,2010,0
-Palestine,2011,0
-Palestine,2012,0
+Palestine,2000,75
+Palestine,2001,213
+Palestine,2002,558
+Palestine,2003,285
+Palestine,2004,385
+Palestine,2005,129
+Palestine,2006,378
+Palestine,2007,493
+Palestine,2008,647
+Palestine,2009,699
+Palestine,2010,23
+Palestine,2011,75
+Palestine,2012,234
 Palestine,2013,0
-Palestine,2014,0
-Palestine,2015,0
-Palestine,2016,0
-Palestine,2017,0
-Palestine,2018,0
-Palestine,2019,0
-Palestine,2020,0
-Palestine,2021,0
-Palestine,2022,0
-Palestine,2023,0
-Panama,1989,843
+Palestine,2014,2287
+Palestine,2015,130
+Palestine,2016,4
+Palestine,2017,66
+Palestine,2018,51
+Palestine,2019,77
+Palestine,2020,48
+Palestine,2021,282
+Palestine,2022,163
+Palestine,2023,22096
+Panama,1989,920
 Panama,1990,0
 Panama,1991,0
 Panama,1992,0
@@ -4900,18 +4900,18 @@ Panama,2021,0
 Panama,2022,0
 Panama,2023,0
 Papua New Guinea,1989,0
-Papua New Guinea,1990,0
+Papua New Guinea,1990,55
 Papua New Guinea,1991,0
-Papua New Guinea,1992,0
-Papua New Guinea,1993,0
-Papua New Guinea,1994,0
-Papua New Guinea,1995,0
-Papua New Guinea,1996,0
+Papua New Guinea,1992,60
+Papua New Guinea,1993,34
+Papua New Guinea,1994,26
+Papua New Guinea,1995,29
+Papua New Guinea,1996,106
 Papua New Guinea,1997,0
-Papua New Guinea,1998,0
-Papua New Guinea,1999,0
+Papua New Guinea,1998,40
+Papua New Guinea,1999,60
 Papua New Guinea,2000,0
-Papua New Guinea,2001,0
+Papua New Guinea,2001,61
 Papua New Guinea,2002,0
 Papua New Guinea,2003,0
 Papua New Guinea,2004,0
@@ -4922,19 +4922,19 @@ Papua New Guinea,2008,0
 Papua New Guinea,2009,0
 Papua New Guinea,2010,0
 Papua New Guinea,2011,0
-Papua New Guinea,2012,0
+Papua New Guinea,2012,57
 Papua New Guinea,2013,0
 Papua New Guinea,2014,0
 Papua New Guinea,2015,0
 Papua New Guinea,2016,0
 Papua New Guinea,2017,0
 Papua New Guinea,2018,0
-Papua New Guinea,2019,0
+Papua New Guinea,2019,28
 Papua New Guinea,2020,0
-Papua New Guinea,2021,0
-Papua New Guinea,2022,0
+Papua New Guinea,2021,38
+Papua New Guinea,2022,96
 Papua New Guinea,2023,0
-Paraguay,1989,0
+Paraguay,1989,150
 Paraguay,1990,0
 Paraguay,1991,0
 Paraguay,1992,0
@@ -4969,17 +4969,17 @@ Paraguay,2020,0
 Paraguay,2021,0
 Paraguay,2022,0
 Paraguay,2023,0
-Peru,1989,0
-Peru,1990,0
-Peru,1991,0
-Peru,1992,0
-Peru,1993,0
-Peru,1994,0
-Peru,1995,88
-Peru,1996,0
-Peru,1997,0
-Peru,1998,0
-Peru,1999,0
+Peru,1989,1917
+Peru,1990,1222
+Peru,1991,1334
+Peru,1992,1181
+Peru,1993,779
+Peru,1994,325
+Peru,1995,266
+Peru,1996,80
+Peru,1997,93
+Peru,1998,25
+Peru,1999,75
 Peru,2000,0
 Peru,2001,0
 Peru,2002,0
@@ -4987,10 +4987,10 @@ Peru,2003,0
 Peru,2004,0
 Peru,2005,0
 Peru,2006,0
-Peru,2007,0
-Peru,2008,0
-Peru,2009,0
-Peru,2010,0
+Peru,2007,32
+Peru,2008,40
+Peru,2009,50
+Peru,2010,28
 Peru,2011,0
 Peru,2012,0
 Peru,2013,0
@@ -5000,45 +5000,45 @@ Peru,2016,0
 Peru,2017,0
 Peru,2018,0
 Peru,2019,0
-Peru,2020,0
+Peru,2020,5
 Peru,2021,0
 Peru,2022,0
 Peru,2023,0
-Philippines,1989,0
-Philippines,1990,0
-Philippines,1991,1
-Philippines,1992,0
-Philippines,1993,0
-Philippines,1994,0
-Philippines,1995,0
-Philippines,1996,0
-Philippines,1997,0
-Philippines,1998,0
-Philippines,1999,0
-Philippines,2000,0
-Philippines,2001,0
-Philippines,2002,0
-Philippines,2003,0
-Philippines,2004,0
-Philippines,2005,0
-Philippines,2006,0
-Philippines,2007,0
-Philippines,2008,0
-Philippines,2009,0
-Philippines,2010,0
-Philippines,2011,0
-Philippines,2012,0
-Philippines,2013,0
-Philippines,2014,0
-Philippines,2015,0
-Philippines,2016,0
-Philippines,2017,0
-Philippines,2018,0
-Philippines,2019,0
-Philippines,2020,0
-Philippines,2021,0
-Philippines,2022,0
-Philippines,2023,0
+Philippines,1989,937
+Philippines,1990,1351
+Philippines,1991,1545
+Philippines,1992,430
+Philippines,1993,296
+Philippines,1994,265
+Philippines,1995,177
+Philippines,1996,180
+Philippines,1997,302
+Philippines,1998,123
+Philippines,1999,199
+Philippines,2000,1739
+Philippines,2001,1034
+Philippines,2002,700
+Philippines,2003,1126
+Philippines,2004,461
+Philippines,2005,470
+Philippines,2006,385
+Philippines,2007,470
+Philippines,2008,520
+Philippines,2009,996
+Philippines,2010,357
+Philippines,2011,381
+Philippines,2012,295
+Philippines,2013,514
+Philippines,2014,470
+Philippines,2015,606
+Philippines,2016,597
+Philippines,2017,1690
+Philippines,2018,432
+Philippines,2019,331
+Philippines,2020,373
+Philippines,2021,266
+Philippines,2022,208
+Philippines,2023,240
 Poland,1989,0
 Poland,1990,0
 Poland,1991,0
@@ -5144,7 +5144,7 @@ Qatar,2020,0
 Qatar,2021,0
 Qatar,2022,0
 Qatar,2023,0
-Romania,1989,0
+Romania,1989,448
 Romania,1990,0
 Romania,1991,0
 Romania,1992,0
@@ -5180,75 +5180,75 @@ Romania,2021,0
 Romania,2022,0
 Romania,2023,0
 Russia,1989,0
-Russia,1990,0
+Russia,1990,1
 Russia,1991,0
 Russia,1992,0
-Russia,1993,0
-Russia,1994,0
-Russia,1995,0
-Russia,1996,0
+Russia,1993,145
+Russia,1994,473
+Russia,1995,1891
+Russia,1996,2763
 Russia,1997,0
 Russia,1998,0
-Russia,1999,0
-Russia,2000,0
-Russia,2001,0
-Russia,2002,0
-Russia,2003,0
-Russia,2004,0
-Russia,2005,0
-Russia,2006,0
-Russia,2007,0
-Russia,2008,0
-Russia,2009,0
-Russia,2010,0
-Russia,2011,0
-Russia,2012,0
-Russia,2013,0
-Russia,2014,0
-Russia,2015,0
-Russia,2016,0
-Russia,2017,0
-Russia,2018,0
-Russia,2019,0
-Russia,2020,0
+Russia,1999,6197
+Russia,2000,4318
+Russia,2001,979
+Russia,2002,1484
+Russia,2003,548
+Russia,2004,1300
+Russia,2005,682
+Russia,2006,259
+Russia,2007,176
+Russia,2008,404
+Russia,2009,697
+Russia,2010,476
+Russia,2011,396
+Russia,2012,516
+Russia,2013,361
+Russia,2014,182
+Russia,2015,86
+Russia,2016,70
+Russia,2017,53
+Russia,2018,36
+Russia,2019,26
+Russia,2020,32
 Russia,2021,0
 Russia,2022,81
-Russia,2023,338
+Russia,2023,435
 Rwanda,1989,0
-Rwanda,1990,0
-Rwanda,1991,0
-Rwanda,1992,0
-Rwanda,1993,0
-Rwanda,1994,0
-Rwanda,1995,0
-Rwanda,1996,0
-Rwanda,1997,0
-Rwanda,1998,0
-Rwanda,1999,0
-Rwanda,2000,0
-Rwanda,2001,0
+Rwanda,1990,2647
+Rwanda,1991,1085
+Rwanda,1992,647
+Rwanda,1993,977
+Rwanda,1994,772353
+Rwanda,1995,4230
+Rwanda,1996,1615
+Rwanda,1997,7296
+Rwanda,1998,1913
+Rwanda,1999,109
+Rwanda,2000,9
+Rwanda,2001,2044
 Rwanda,2002,0
-Rwanda,2003,0
-Rwanda,2004,0
+Rwanda,2003,12
+Rwanda,2004,43
 Rwanda,2005,0
-Rwanda,2006,0
-Rwanda,2007,0
-Rwanda,2008,0
-Rwanda,2009,0
+Rwanda,2006,22
+Rwanda,2007,11
+Rwanda,2008,31
+Rwanda,2009,12
 Rwanda,2010,0
 Rwanda,2011,0
-Rwanda,2012,0
-Rwanda,2013,0
+Rwanda,2012,124
+Rwanda,2013,257
 Rwanda,2014,0
 Rwanda,2015,0
-Rwanda,2016,0
-Rwanda,2017,0
-Rwanda,2018,0
-Rwanda,2019,0
-Rwanda,2020,0
-Rwanda,2021,0
-Rwanda,2022,0
-Rwanda,2023,0
+Rwanda,2016,27
+Rwanda,2017,2
+Rwanda,2018,12
+Rwanda,2019,25
+Rwanda,2020,6
+Rwanda,2021,7
+Rwanda,2022,17
+Rwanda,2023,6
 Saint Kitts and Nevis,1989,0
 Saint Kitts and Nevis,1990,0
 Saint Kitts and Nevis,1991,0
@@ -5473,11 +5473,11 @@ Saudi Arabia,1999,0
 Saudi Arabia,2000,0
 Saudi Arabia,2001,0
 Saudi Arabia,2002,0
-Saudi Arabia,2003,0
-Saudi Arabia,2004,0
-Saudi Arabia,2005,0
-Saudi Arabia,2006,0
-Saudi Arabia,2007,0
+Saudi Arabia,2003,26
+Saudi Arabia,2004,91
+Saudi Arabia,2005,31
+Saudi Arabia,2006,11
+Saudi Arabia,2007,2
 Saudi Arabia,2008,0
 Saudi Arabia,2009,0
 Saudi Arabia,2010,0
@@ -5485,38 +5485,38 @@ Saudi Arabia,2011,0
 Saudi Arabia,2012,0
 Saudi Arabia,2013,0
 Saudi Arabia,2014,0
-Saudi Arabia,2015,0
-Saudi Arabia,2016,0
-Saudi Arabia,2017,0
-Saudi Arabia,2018,0
-Saudi Arabia,2019,0
-Saudi Arabia,2020,0
-Saudi Arabia,2021,0
-Saudi Arabia,2022,0
-Saudi Arabia,2023,0
-Senegal,1989,0
-Senegal,1990,0
+Saudi Arabia,2015,208
+Saudi Arabia,2016,125
+Saudi Arabia,2017,193
+Saudi Arabia,2018,14
+Saudi Arabia,2019,63
+Saudi Arabia,2020,16
+Saudi Arabia,2021,110
+Saudi Arabia,2022,31
+Saudi Arabia,2023,19
+Senegal,1989,124
+Senegal,1990,59
 Senegal,1991,0
-Senegal,1992,0
-Senegal,1993,0
+Senegal,1992,127
+Senegal,1993,282
 Senegal,1994,0
-Senegal,1995,0
+Senegal,1995,299
 Senegal,1996,0
-Senegal,1997,0
-Senegal,1998,0
+Senegal,1997,358
+Senegal,1998,336
 Senegal,1999,0
-Senegal,2000,0
-Senegal,2001,0
-Senegal,2002,0
-Senegal,2003,0
+Senegal,2000,47
+Senegal,2001,33
+Senegal,2002,25
+Senegal,2003,39
 Senegal,2004,0
-Senegal,2005,0
-Senegal,2006,0
+Senegal,2005,45
+Senegal,2006,124
 Senegal,2007,0
 Senegal,2008,0
 Senegal,2009,0
 Senegal,2010,0
-Senegal,2011,0
+Senegal,2011,25
 Senegal,2012,0
 Senegal,2013,0
 Senegal,2014,0
@@ -5531,15 +5531,15 @@ Senegal,2022,0
 Senegal,2023,0
 Serbia,1989,0
 Serbia,1990,0
-Serbia,1991,0
-Serbia,1992,0
-Serbia,1993,0
+Serbia,1991,35
+Serbia,1992,28
+Serbia,1993,101
 Serbia,1994,0
 Serbia,1995,0
 Serbia,1996,0
 Serbia,1997,0
-Serbia,1998,0
-Serbia,1999,0
+Serbia,1998,12
+Serbia,1999,856
 Serbia,2000,0
 Serbia,2001,0
 Serbia,2002,0
@@ -5601,18 +5601,18 @@ Seychelles,2022,0
 Seychelles,2023,0
 Sierra Leone,1989,0
 Sierra Leone,1990,0
-Sierra Leone,1991,0
-Sierra Leone,1992,0
-Sierra Leone,1993,0
-Sierra Leone,1994,0
-Sierra Leone,1995,0
-Sierra Leone,1996,0
-Sierra Leone,1997,0
-Sierra Leone,1998,0
-Sierra Leone,1999,0
-Sierra Leone,2000,0
-Sierra Leone,2001,0
-Sierra Leone,2002,0
+Sierra Leone,1991,1211
+Sierra Leone,1992,518
+Sierra Leone,1993,633
+Sierra Leone,1994,2070
+Sierra Leone,1995,3194
+Sierra Leone,1996,920
+Sierra Leone,1997,1180
+Sierra Leone,1998,5109
+Sierra Leone,1999,4499
+Sierra Leone,2000,833
+Sierra Leone,2001,50
+Sierra Leone,2002,1
 Sierra Leone,2003,0
 Sierra Leone,2004,0
 Sierra Leone,2005,0
@@ -5706,7 +5706,7 @@ Slovakia,2022,0
 Slovakia,2023,0
 Slovenia,1989,0
 Slovenia,1990,0
-Slovenia,1991,0
+Slovenia,1991,64
 Slovenia,1992,0
 Slovenia,1993,0
 Slovenia,1994,0
@@ -5742,7 +5742,7 @@ Slovenia,2023,0
 Solomon Islands,1989,0
 Solomon Islands,1990,0
 Solomon Islands,1991,0
-Solomon Islands,1992,0
+Solomon Islands,1992,2
 Solomon Islands,1993,0
 Solomon Islands,1994,0
 Solomon Islands,1995,0
@@ -5774,51 +5774,51 @@ Solomon Islands,2020,0
 Solomon Islands,2021,0
 Solomon Islands,2022,0
 Solomon Islands,2023,0
-Somalia,1989,0
-Somalia,1990,0
-Somalia,1991,0
-Somalia,1992,0
-Somalia,1993,0
-Somalia,1994,0
-Somalia,1995,0
-Somalia,1996,0
-Somalia,1997,0
-Somalia,1998,0
-Somalia,1999,0
-Somalia,2000,0
-Somalia,2001,0
-Somalia,2002,0
-Somalia,2003,0
-Somalia,2004,0
-Somalia,2005,0
-Somalia,2006,0
-Somalia,2007,0
-Somalia,2008,0
-Somalia,2009,0
-Somalia,2010,0
-Somalia,2011,0
-Somalia,2012,0
-Somalia,2013,0
-Somalia,2014,0
-Somalia,2015,0
-Somalia,2016,0
-Somalia,2017,0
-Somalia,2018,0
-Somalia,2019,0
-Somalia,2020,0
-Somalia,2021,0
-Somalia,2022,0
-Somalia,2023,0
-South Africa,1989,0
-South Africa,1990,0
-South Africa,1991,0
-South Africa,1992,0
-South Africa,1993,0
-South Africa,1994,0
-South Africa,1995,0
-South Africa,1996,0
+Somalia,1989,1067
+Somalia,1990,2760
+Somalia,1991,8455
+Somalia,1992,4729
+Somalia,1993,478
+Somalia,1994,625
+Somalia,1995,460
+Somalia,1996,939
+Somalia,1997,268
+Somalia,1998,312
+Somalia,1999,522
+Somalia,2000,171
+Somalia,2001,445
+Somalia,2002,624
+Somalia,2003,395
+Somalia,2004,666
+Somalia,2005,388
+Somalia,2006,1187
+Somalia,2007,1585
+Somalia,2008,1732
+Somalia,2009,2146
+Somalia,2010,2817
+Somalia,2011,2125
+Somalia,2012,2991
+Somalia,2013,1037
+Somalia,2014,1291
+Somalia,2015,1263
+Somalia,2016,2074
+Somalia,2017,2065
+Somalia,2018,2435
+Somalia,2019,2180
+Somalia,2020,2095
+Somalia,2021,2259
+Somalia,2022,3110
+Somalia,2023,4175
+South Africa,1989,281
+South Africa,1990,1438
+South Africa,1991,695
+South Africa,1992,706
+South Africa,1993,889
+South Africa,1994,509
+South Africa,1995,143
+South Africa,1996,156
 South Africa,1997,0
-South Africa,1998,0
+South Africa,1998,29
 South Africa,1999,0
 South Africa,2000,0
 South Africa,2001,0
@@ -5838,10 +5838,10 @@ South Africa,2014,0
 South Africa,2015,0
 South Africa,2016,0
 South Africa,2017,0
-South Africa,2018,0
+South Africa,2018,1
 South Africa,2019,0
 South Africa,2020,0
-South Africa,2021,0
+South Africa,2021,123
 South Africa,2022,0
 South Africa,2023,0
 South Korea,1989,0
@@ -5914,44 +5914,44 @@ South Ossetia,2020,0
 South Ossetia,2021,0
 South Ossetia,2022,0
 South Ossetia,2023,0
-South Sudan,1989,0
-South Sudan,1990,0
-South Sudan,1991,0
-South Sudan,1992,0
-South Sudan,1993,0
-South Sudan,1994,0
-South Sudan,1995,0
-South Sudan,1996,0
-South Sudan,1997,0
-South Sudan,1998,0
-South Sudan,1999,0
-South Sudan,2000,0
-South Sudan,2001,0
-South Sudan,2002,0
-South Sudan,2003,0
-South Sudan,2004,0
-South Sudan,2005,0
-South Sudan,2006,0
-South Sudan,2007,0
-South Sudan,2008,0
-South Sudan,2009,0
-South Sudan,2010,0
-South Sudan,2011,0
-South Sudan,2012,105
-South Sudan,2013,0
-South Sudan,2014,0
-South Sudan,2015,0
-South Sudan,2016,0
-South Sudan,2017,0
-South Sudan,2018,0
-South Sudan,2019,0
-South Sudan,2020,0
-South Sudan,2021,0
-South Sudan,2022,0
-South Sudan,2023,0
+South Sudan,1989,3907
+South Sudan,1990,4272
+South Sudan,1991,4206
+South Sudan,1992,3346
+South Sudan,1993,5877
+South Sudan,1994,491
+South Sudan,1995,1162
+South Sudan,1996,2374
+South Sudan,1997,3574
+South Sudan,1998,3887
+South Sudan,1999,558
+South Sudan,2000,1953
+South Sudan,2001,2809
+South Sudan,2002,2978
+South Sudan,2003,62
+South Sudan,2004,1241
+South Sudan,2005,168
+South Sudan,2006,155
+South Sudan,2007,275
+South Sudan,2008,135
+South Sudan,2009,1716
+South Sudan,2010,266
+South Sudan,2011,3037
+South Sudan,2012,807
+South Sudan,2013,1699
+South Sudan,2014,2461
+South Sudan,2015,1104
+South Sudan,2016,1276
+South Sudan,2017,1224
+South Sudan,2018,1128
+South Sudan,2019,585
+South Sudan,2020,638
+South Sudan,2021,885
+South Sudan,2022,679
+South Sudan,2023,168
 Spain,1989,0
 Spain,1990,0
-Spain,1991,0
+Spain,1991,45
 Spain,1992,0
 Spain,1993,0
 Spain,1994,0
@@ -5964,7 +5964,7 @@ Spain,2000,0
 Spain,2001,0
 Spain,2002,0
 Spain,2003,0
-Spain,2004,0
+Spain,2004,191
 Spain,2005,0
 Spain,2006,0
 Spain,2007,0
@@ -5977,34 +5977,34 @@ Spain,2013,0
 Spain,2014,0
 Spain,2015,0
 Spain,2016,0
-Spain,2017,0
+Spain,2017,16
 Spain,2018,0
 Spain,2019,0
 Spain,2020,0
 Spain,2021,0
 Spain,2022,0
-Spain,2023,0
-Sri Lanka,1989,0
-Sri Lanka,1990,0
-Sri Lanka,1991,0
-Sri Lanka,1992,0
-Sri Lanka,1993,0
-Sri Lanka,1994,0
-Sri Lanka,1995,0
-Sri Lanka,1996,0
-Sri Lanka,1997,0
-Sri Lanka,1998,0
-Sri Lanka,1999,0
-Sri Lanka,2000,0
-Sri Lanka,2001,0
+Spain,2023,2
+Sri Lanka,1989,1288
+Sri Lanka,1990,4819
+Sri Lanka,1991,6646
+Sri Lanka,1992,4444
+Sri Lanka,1993,2075
+Sri Lanka,1994,711
+Sri Lanka,1995,4952
+Sri Lanka,1996,4089
+Sri Lanka,1997,2871
+Sri Lanka,1998,3820
+Sri Lanka,1999,1944
+Sri Lanka,2000,2560
+Sri Lanka,2001,1144
 Sri Lanka,2002,0
-Sri Lanka,2003,0
-Sri Lanka,2004,0
-Sri Lanka,2005,0
-Sri Lanka,2006,0
-Sri Lanka,2007,0
-Sri Lanka,2008,0
-Sri Lanka,2009,0
+Sri Lanka,2003,29
+Sri Lanka,2004,60
+Sri Lanka,2005,115
+Sri Lanka,2006,2133
+Sri Lanka,2007,2522
+Sri Lanka,2008,8447
+Sri Lanka,2009,10413
 Sri Lanka,2010,0
 Sri Lanka,2011,0
 Sri Lanka,2012,0
@@ -6014,46 +6014,46 @@ Sri Lanka,2015,0
 Sri Lanka,2016,0
 Sri Lanka,2017,0
 Sri Lanka,2018,0
-Sri Lanka,2019,0
+Sri Lanka,2019,255
 Sri Lanka,2020,0
 Sri Lanka,2021,0
 Sri Lanka,2022,0
 Sri Lanka,2023,0
-Sudan,1989,0
-Sudan,1990,0
-Sudan,1991,0
-Sudan,1992,0
-Sudan,1993,0
-Sudan,1994,0
-Sudan,1995,0
-Sudan,1996,0
-Sudan,1997,0
-Sudan,1998,0
-Sudan,1999,0
-Sudan,2000,0
-Sudan,2001,0
-Sudan,2002,0
-Sudan,2003,0
-Sudan,2004,0
-Sudan,2005,0
-Sudan,2006,0
-Sudan,2007,0
-Sudan,2008,0
-Sudan,2009,0
-Sudan,2010,0
-Sudan,2011,0
-Sudan,2012,262
-Sudan,2013,0
-Sudan,2014,0
-Sudan,2015,0
-Sudan,2016,0
-Sudan,2017,0
-Sudan,2018,0
-Sudan,2019,0
-Sudan,2020,0
-Sudan,2021,0
-Sudan,2022,0
-Sudan,2023,0
+Sudan,1989,3607
+Sudan,1990,1449
+Sudan,1991,359
+Sudan,1992,968
+Sudan,1993,148
+Sudan,1994,467
+Sudan,1995,332
+Sudan,1996,293
+Sudan,1997,1289
+Sudan,1998,1922
+Sudan,1999,1506
+Sudan,2000,1573
+Sudan,2001,910
+Sudan,2002,249
+Sudan,2003,4761
+Sudan,2004,8308
+Sudan,2005,1313
+Sudan,2006,2242
+Sudan,2007,948
+Sudan,2008,1102
+Sudan,2009,692
+Sudan,2010,1481
+Sudan,2011,732
+Sudan,2012,1539
+Sudan,2013,1843
+Sudan,2014,1901
+Sudan,2015,2522
+Sudan,2016,1921
+Sudan,2017,485
+Sudan,2018,414
+Sudan,2019,480
+Sudan,2020,605
+Sudan,2021,806
+Sudan,2022,1364
+Sudan,2023,7733
 Suriname,1989,0
 Suriname,1990,0
 Suriname,1991,0
@@ -6117,7 +6117,7 @@ Sweden,2013,0
 Sweden,2014,0
 Sweden,2015,0
 Sweden,2016,0
-Sweden,2017,0
+Sweden,2017,5
 Sweden,2018,0
 Sweden,2019,0
 Sweden,2020,0
@@ -6159,7 +6159,7 @@ Switzerland,2020,0
 Switzerland,2021,0
 Switzerland,2022,0
 Switzerland,2023,0
-Syria,1989,0
+Syria,1989,1
 Syria,1990,0
 Syria,1991,0
 Syria,1992,0
@@ -6174,26 +6174,26 @@ Syria,2000,0
 Syria,2001,0
 Syria,2002,0
 Syria,2003,0
-Syria,2004,0
+Syria,2004,1
 Syria,2005,0
 Syria,2006,0
 Syria,2007,0
 Syria,2008,0
 Syria,2009,0
 Syria,2010,0
-Syria,2011,0
-Syria,2012,0
-Syria,2013,0
-Syria,2014,0
-Syria,2015,0
-Syria,2016,0
-Syria,2017,0
-Syria,2018,111
-Syria,2019,138
-Syria,2020,272
-Syria,2021,134
-Syria,2022,55
-Syria,2023,160
+Syria,2011,4335
+Syria,2012,53657
+Syria,2013,76363
+Syria,2014,75955
+Syria,2015,58614
+Syria,2016,53548
+Syria,2017,38408
+Syria,2018,21474
+Syria,2019,11043
+Syria,2020,5632
+Syria,2021,1860
+Syria,2022,1608
+Syria,2023,2162
 Taiwan,1989,0
 Taiwan,1990,0
 Taiwan,1991,0
@@ -6232,15 +6232,15 @@ Taiwan,2023,0
 Tajikistan,1989,0
 Tajikistan,1990,0
 Tajikistan,1991,0
-Tajikistan,1992,0
-Tajikistan,1993,0
-Tajikistan,1994,0
-Tajikistan,1995,0
-Tajikistan,1996,0
-Tajikistan,1997,0
-Tajikistan,1998,0
-Tajikistan,1999,0
-Tajikistan,2000,0
+Tajikistan,1992,3859
+Tajikistan,1993,1045
+Tajikistan,1994,356
+Tajikistan,1995,368
+Tajikistan,1996,2790
+Tajikistan,1997,87
+Tajikistan,1998,600
+Tajikistan,1999,3
+Tajikistan,2000,48
 Tajikistan,2001,0
 Tajikistan,2002,0
 Tajikistan,2003,0
@@ -6250,15 +6250,15 @@ Tajikistan,2006,0
 Tajikistan,2007,0
 Tajikistan,2008,0
 Tajikistan,2009,0
-Tajikistan,2010,0
-Tajikistan,2011,0
+Tajikistan,2010,77
+Tajikistan,2011,28
 Tajikistan,2012,0
 Tajikistan,2013,0
 Tajikistan,2014,0
 Tajikistan,2015,0
 Tajikistan,2016,0
 Tajikistan,2017,0
-Tajikistan,2018,0
+Tajikistan,2018,4
 Tajikistan,2019,0
 Tajikistan,2020,0
 Tajikistan,2021,45
@@ -6269,20 +6269,20 @@ Tanzania,1990,0
 Tanzania,1991,0
 Tanzania,1992,0
 Tanzania,1993,0
-Tanzania,1994,0
+Tanzania,1994,6
 Tanzania,1995,0
 Tanzania,1996,0
-Tanzania,1997,0
+Tanzania,1997,7
 Tanzania,1998,0
-Tanzania,1999,0
-Tanzania,2000,0
-Tanzania,2001,0
-Tanzania,2002,0
+Tanzania,1999,7
+Tanzania,2000,131
+Tanzania,2001,50
+Tanzania,2002,66
 Tanzania,2003,0
 Tanzania,2004,0
 Tanzania,2005,0
 Tanzania,2006,0
-Tanzania,2007,0
+Tanzania,2007,3
 Tanzania,2008,0
 Tanzania,2009,0
 Tanzania,2010,0
@@ -6291,54 +6291,54 @@ Tanzania,2012,0
 Tanzania,2013,0
 Tanzania,2014,0
 Tanzania,2015,0
-Tanzania,2016,0
-Tanzania,2017,0
+Tanzania,2016,1
+Tanzania,2017,1
 Tanzania,2018,0
-Tanzania,2019,0
-Tanzania,2020,0
-Tanzania,2021,0
-Tanzania,2022,0
+Tanzania,2019,8
+Tanzania,2020,25
+Tanzania,2021,14
+Tanzania,2022,1
 Tanzania,2023,0
-Thailand,1989,0
-Thailand,1990,0
-Thailand,1991,0
-Thailand,1992,0
-Thailand,1993,0
-Thailand,1994,0
-Thailand,1995,0
-Thailand,1996,0
-Thailand,1997,0
-Thailand,1998,0
-Thailand,1999,0
-Thailand,2000,0
-Thailand,2001,0
-Thailand,2002,0
-Thailand,2003,0
-Thailand,2004,0
-Thailand,2005,0
-Thailand,2006,0
-Thailand,2007,0
-Thailand,2008,0
-Thailand,2009,0
-Thailand,2010,0
-Thailand,2011,18
-Thailand,2012,0
-Thailand,2013,0
-Thailand,2014,0
-Thailand,2015,0
-Thailand,2016,0
-Thailand,2017,0
-Thailand,2018,0
-Thailand,2019,0
-Thailand,2020,0
-Thailand,2021,0
-Thailand,2022,0
-Thailand,2023,0
+Thailand,1989,1073
+Thailand,1990,131
+Thailand,1991,4
+Thailand,1992,580
+Thailand,1993,19
+Thailand,1994,52
+Thailand,1995,124
+Thailand,1996,32
+Thailand,1997,243
+Thailand,1998,193
+Thailand,1999,6
+Thailand,2000,46
+Thailand,2001,51
+Thailand,2002,114
+Thailand,2003,41
+Thailand,2004,312
+Thailand,2005,586
+Thailand,2006,563
+Thailand,2007,568
+Thailand,2008,336
+Thailand,2009,262
+Thailand,2010,249
+Thailand,2011,276
+Thailand,2012,243
+Thailand,2013,249
+Thailand,2014,98
+Thailand,2015,84
+Thailand,2016,49
+Thailand,2017,42
+Thailand,2018,61
+Thailand,2019,55
+Thailand,2020,46
+Thailand,2021,48
+Thailand,2022,47
+Thailand,2023,35
 Togo,1989,0
 Togo,1990,0
-Togo,1991,0
+Togo,1991,63
 Togo,1992,0
-Togo,1993,0
+Togo,1993,48
 Togo,1994,0
 Togo,1995,0
 Togo,1996,0
@@ -6350,7 +6350,7 @@ Togo,2001,0
 Togo,2002,0
 Togo,2003,0
 Togo,2004,0
-Togo,2005,0
+Togo,2005,436
 Togo,2006,0
 Togo,2007,0
 Togo,2008,0
@@ -6367,8 +6367,8 @@ Togo,2018,0
 Togo,2019,0
 Togo,2020,0
 Togo,2021,0
-Togo,2022,0
-Togo,2023,0
+Togo,2022,59
+Togo,2023,44
 Tonga,1989,0
 Tonga,1990,0
 Tonga,1991,0
@@ -6405,7 +6405,7 @@ Tonga,2021,0
 Tonga,2022,0
 Tonga,2023,0
 Trinidad and Tobago,1989,0
-Trinidad and Tobago,1990,0
+Trinidad and Tobago,1990,39
 Trinidad and Tobago,1991,0
 Trinidad and Tobago,1992,0
 Trinidad and Tobago,1993,0
@@ -6452,7 +6452,7 @@ Tunisia,1998,0
 Tunisia,1999,0
 Tunisia,2000,0
 Tunisia,2001,0
-Tunisia,2002,0
+Tunisia,2002,21
 Tunisia,2003,0
 Tunisia,2004,0
 Tunisia,2005,0
@@ -6463,10 +6463,10 @@ Tunisia,2009,0
 Tunisia,2010,0
 Tunisia,2011,0
 Tunisia,2012,0
-Tunisia,2013,0
-Tunisia,2014,0
-Tunisia,2015,0
-Tunisia,2016,0
+Tunisia,2013,29
+Tunisia,2014,50
+Tunisia,2015,116
+Tunisia,2016,71
 Tunisia,2017,0
 Tunisia,2018,0
 Tunisia,2019,0
@@ -6474,41 +6474,41 @@ Tunisia,2020,0
 Tunisia,2021,0
 Tunisia,2022,0
 Tunisia,2023,0
-Turkey,1989,0
-Turkey,1990,0
-Turkey,1991,0
-Turkey,1992,0
-Turkey,1993,0
-Turkey,1994,0
-Turkey,1995,0
-Turkey,1996,0
-Turkey,1997,0
-Turkey,1998,0
-Turkey,1999,0
-Turkey,2000,0
-Turkey,2001,0
-Turkey,2002,0
-Turkey,2003,0
-Turkey,2004,0
-Turkey,2005,0
-Turkey,2006,0
-Turkey,2007,0
-Turkey,2008,0
-Turkey,2009,0
-Turkey,2010,0
-Turkey,2011,0
-Turkey,2012,0
-Turkey,2013,0
-Turkey,2014,0
-Turkey,2015,0
-Turkey,2016,0
-Turkey,2017,0
-Turkey,2018,0
-Turkey,2019,0
-Turkey,2020,0
-Turkey,2021,0
-Turkey,2022,0
-Turkey,2023,0
+Turkey,1989,532
+Turkey,1990,612
+Turkey,1991,426
+Turkey,1992,1889
+Turkey,1993,2685
+Turkey,1994,4156
+Turkey,1995,3700
+Turkey,1996,3696
+Turkey,1997,2624
+Turkey,1998,2044
+Turkey,1999,1173
+Turkey,2000,153
+Turkey,2001,103
+Turkey,2002,28
+Turkey,2003,137
+Turkey,2004,194
+Turkey,2005,293
+Turkey,2006,216
+Turkey,2007,494
+Turkey,2008,452
+Turkey,2009,138
+Turkey,2010,226
+Turkey,2011,410
+Turkey,2012,809
+Turkey,2013,171
+Turkey,2014,2658
+Turkey,2015,1966
+Turkey,2016,1829
+Turkey,2017,453
+Turkey,2018,485
+Turkey,2019,383
+Turkey,2020,207
+Turkey,2021,144
+Turkey,2022,129
+Turkey,2023,109
 Turkmenistan,1989,0
 Turkmenistan,1990,0
 Turkmenistan,1991,0
@@ -6529,19 +6529,19 @@ Turkmenistan,2005,0
 Turkmenistan,2006,0
 Turkmenistan,2007,0
 Turkmenistan,2008,0
-Turkmenistan,2009,0
+Turkmenistan,2009,2
 Turkmenistan,2010,0
-Turkmenistan,2011,0
+Turkmenistan,2011,5
 Turkmenistan,2012,0
-Turkmenistan,2013,0
+Turkmenistan,2013,1
 Turkmenistan,2014,0
 Turkmenistan,2015,0
-Turkmenistan,2016,0
+Turkmenistan,2016,4
 Turkmenistan,2017,0
 Turkmenistan,2018,0
 Turkmenistan,2019,0
-Turkmenistan,2020,0
-Turkmenistan,2021,0
+Turkmenistan,2020,2
+Turkmenistan,2021,5
 Turkmenistan,2022,0
 Turkmenistan,2023,0
 Tuvalu,1989,0
@@ -6579,41 +6579,41 @@ Tuvalu,2020,0
 Tuvalu,2021,0
 Tuvalu,2022,0
 Tuvalu,2023,0
-Uganda,1989,0
-Uganda,1990,0
-Uganda,1991,0
-Uganda,1992,0
-Uganda,1993,0
-Uganda,1994,0
-Uganda,1995,0
-Uganda,1996,0
-Uganda,1997,0
-Uganda,1998,0
-Uganda,1999,0
-Uganda,2000,0
-Uganda,2001,0
-Uganda,2002,0
-Uganda,2003,0
-Uganda,2004,0
-Uganda,2005,0
-Uganda,2006,0
-Uganda,2007,0
-Uganda,2008,0
-Uganda,2009,0
-Uganda,2010,0
-Uganda,2011,0
-Uganda,2012,0
-Uganda,2013,0
+Uganda,1989,1048
+Uganda,1990,809
+Uganda,1991,1018
+Uganda,1992,72
+Uganda,1993,17
+Uganda,1994,149
+Uganda,1995,531
+Uganda,1996,1799
+Uganda,1997,1352
+Uganda,1998,1186
+Uganda,1999,1013
+Uganda,2000,1199
+Uganda,2001,198
+Uganda,2002,1296
+Uganda,2003,1646
+Uganda,2004,2020
+Uganda,2005,935
+Uganda,2006,266
+Uganda,2007,168
+Uganda,2008,7
+Uganda,2009,40
+Uganda,2010,75
+Uganda,2011,1
+Uganda,2012,25
+Uganda,2013,28
 Uganda,2014,0
 Uganda,2015,0
-Uganda,2016,0
-Uganda,2017,0
+Uganda,2016,48
+Uganda,2017,35
 Uganda,2018,0
-Uganda,2019,0
-Uganda,2020,0
-Uganda,2021,0
-Uganda,2022,0
-Uganda,2023,0
+Uganda,2019,3
+Uganda,2020,4
+Uganda,2021,3
+Uganda,2022,149
+Uganda,2023,104
 Ukraine,1989,0
 Ukraine,1990,0
 Ukraine,1991,0
@@ -6639,16 +6639,16 @@ Ukraine,2010,0
 Ukraine,2011,0
 Ukraine,2012,0
 Ukraine,2013,0
-Ukraine,2014,0
-Ukraine,2015,0
-Ukraine,2016,0
-Ukraine,2017,0
-Ukraine,2018,0
-Ukraine,2019,0
-Ukraine,2020,0
-Ukraine,2021,0
-Ukraine,2022,91641
-Ukraine,2023,70365
+Ukraine,2014,4929
+Ukraine,2015,1787
+Ukraine,2016,255
+Ukraine,2017,417
+Ukraine,2018,243
+Ukraine,2019,311
+Ukraine,2020,196
+Ukraine,2021,208
+Ukraine,2022,92799
+Ukraine,2023,70675
 United Arab Emirates,1989,0
 United Arab Emirates,1990,0
 United Arab Emirates,1991,0
@@ -6682,25 +6682,25 @@ United Arab Emirates,2018,0
 United Arab Emirates,2019,0
 United Arab Emirates,2020,0
 United Arab Emirates,2021,0
-United Arab Emirates,2022,0
+United Arab Emirates,2022,3
 United Arab Emirates,2023,0
-United Kingdom,1989,0
-United Kingdom,1990,0
-United Kingdom,1991,0
+United Kingdom,1989,34
+United Kingdom,1990,41
+United Kingdom,1991,26
 United Kingdom,1992,0
-United Kingdom,1993,0
+United Kingdom,1993,32
 United Kingdom,1994,0
 United Kingdom,1995,0
 United Kingdom,1996,0
 United Kingdom,1997,0
-United Kingdom,1998,0
+United Kingdom,1998,29
 United Kingdom,1999,0
 United Kingdom,2000,0
 United Kingdom,2001,0
 United Kingdom,2002,0
 United Kingdom,2003,0
 United Kingdom,2004,0
-United Kingdom,2005,0
+United Kingdom,2005,52
 United Kingdom,2006,0
 United Kingdom,2007,0
 United Kingdom,2008,0
@@ -6714,7 +6714,7 @@ United Kingdom,2015,0
 United Kingdom,2016,0
 United Kingdom,2017,0
 United Kingdom,2018,0
-United Kingdom,2019,0
+United Kingdom,2019,3
 United Kingdom,2020,0
 United Kingdom,2021,0
 United Kingdom,2022,0
@@ -6731,28 +6731,28 @@ United States,1997,0
 United States,1998,0
 United States,1999,0
 United States,2000,0
-United States,2001,0
+United States,2001,2986
 United States,2002,0
 United States,2003,0
-United States,2004,0
+United States,2004,4
 United States,2005,0
 United States,2006,0
 United States,2007,0
 United States,2008,0
 United States,2009,0
-United States,2010,0
+United States,2010,2
 United States,2011,0
 United States,2012,0
 United States,2013,0
-United States,2014,0
-United States,2015,0
+United States,2014,7
+United States,2015,14
 United States,2016,0
-United States,2017,0
+United States,2017,8
 United States,2018,0
-United States,2019,0
+United States,2019,8
 United States,2020,0
-United States,2021,0
-United States,2022,0
+United States,2021,2
+United States,2022,1
 United States,2023,0
 Uruguay,1989,0
 Uruguay,1990,0
@@ -6789,7 +6789,7 @@ Uruguay,2020,0
 Uruguay,2021,0
 Uruguay,2022,0
 Uruguay,2023,0
-Uzbekistan,1989,0
+Uzbekistan,1989,97
 Uzbekistan,1990,0
 Uzbekistan,1991,0
 Uzbekistan,1992,0
@@ -6799,12 +6799,12 @@ Uzbekistan,1995,0
 Uzbekistan,1996,0
 Uzbekistan,1997,0
 Uzbekistan,1998,0
-Uzbekistan,1999,0
-Uzbekistan,2000,0
+Uzbekistan,1999,61
+Uzbekistan,2000,297
 Uzbekistan,2001,0
 Uzbekistan,2002,0
 Uzbekistan,2003,0
-Uzbekistan,2004,0
+Uzbekistan,2004,37
 Uzbekistan,2005,0
 Uzbekistan,2006,0
 Uzbekistan,2007,0
@@ -6859,41 +6859,41 @@ Vanuatu,2020,0
 Vanuatu,2021,0
 Vanuatu,2022,0
 Vanuatu,2023,0
-Venezuela,1989,0
-Venezuela,1990,0
-Venezuela,1991,0
-Venezuela,1992,0
-Venezuela,1993,0
-Venezuela,1994,0
-Venezuela,1995,0
-Venezuela,1996,0
-Venezuela,1997,0
-Venezuela,1998,0
-Venezuela,1999,0
-Venezuela,2000,0
-Venezuela,2001,0
-Venezuela,2002,0
-Venezuela,2003,0
-Venezuela,2004,0
-Venezuela,2005,0
+Venezuela,1989,58
+Venezuela,1990,64
+Venezuela,1991,30
+Venezuela,1992,223
+Venezuela,1993,63
+Venezuela,1994,171
+Venezuela,1995,26
+Venezuela,1996,44
+Venezuela,1997,79
+Venezuela,1998,39
+Venezuela,1999,44
+Venezuela,2000,44
+Venezuela,2001,39
+Venezuela,2002,22
+Venezuela,2003,43
+Venezuela,2004,35
+Venezuela,2005,30
 Venezuela,2006,0
-Venezuela,2007,0
-Venezuela,2008,0
-Venezuela,2009,0
-Venezuela,2010,0
-Venezuela,2011,0
-Venezuela,2012,0
+Venezuela,2007,2
+Venezuela,2008,37
+Venezuela,2009,36
+Venezuela,2010,13
+Venezuela,2011,4
+Venezuela,2012,25
 Venezuela,2013,0
-Venezuela,2014,0
-Venezuela,2015,0
-Venezuela,2016,0
-Venezuela,2017,0
-Venezuela,2018,0
-Venezuela,2019,0
+Venezuela,2014,44
+Venezuela,2015,36
+Venezuela,2016,61
+Venezuela,2017,76
+Venezuela,2018,99
+Venezuela,2019,85
 Venezuela,2020,0
-Venezuela,2021,0
-Venezuela,2022,0
-Venezuela,2023,0
+Venezuela,2021,8
+Venezuela,2022,16
+Venezuela,2023,5
 Vietnam,1989,0
 Vietnam,1990,0
 Vietnam,1991,0
@@ -6964,7 +6964,7 @@ West Germany,2020,0
 West Germany,2021,0
 West Germany,2022,0
 West Germany,2023,0
-Western Sahara,1989,0
+Western Sahara,1989,136
 Western Sahara,1990,0
 Western Sahara,1991,0
 Western Sahara,1992,0
@@ -7004,7 +7004,7 @@ Yemen,1990,0
 Yemen,1991,0
 Yemen,1992,0
 Yemen,1993,0
-Yemen,1994,0
+Yemen,1994,1489
 Yemen,1995,0
 Yemen,1996,0
 Yemen,1997,0
@@ -7012,28 +7012,28 @@ Yemen,1998,0
 Yemen,1999,0
 Yemen,2000,0
 Yemen,2001,0
-Yemen,2002,0
+Yemen,2002,2
 Yemen,2003,0
-Yemen,2004,0
+Yemen,2004,29
 Yemen,2005,0
 Yemen,2006,0
 Yemen,2007,0
-Yemen,2008,0
-Yemen,2009,0
-Yemen,2010,0
-Yemen,2011,0
-Yemen,2012,0
-Yemen,2013,0
-Yemen,2014,0
-Yemen,2015,0
-Yemen,2016,0
-Yemen,2017,0
-Yemen,2018,0
-Yemen,2019,0
-Yemen,2020,1
-Yemen,2021,0
-Yemen,2022,0
-Yemen,2023,0
+Yemen,2008,21
+Yemen,2009,94
+Yemen,2010,201
+Yemen,2011,1427
+Yemen,2012,2411
+Yemen,2013,578
+Yemen,2014,2286
+Yemen,2015,7973
+Yemen,2016,4020
+Yemen,2017,3463
+Yemen,2018,4979
+Yemen,2019,2869
+Yemen,2020,6717
+Yemen,2021,23337
+Yemen,2022,3145
+Yemen,2023,888
 Yemen People's Republic,1989,0
 Yemen People's Republic,1990,0
 Yemen People's Republic,1991,0
@@ -7104,20 +7104,20 @@ Yugoslavia,2020,0
 Yugoslavia,2021,0
 Yugoslavia,2022,0
 Yugoslavia,2023,0
-Zambia,1989,0
-Zambia,1990,0
+Zambia,1989,86
+Zambia,1990,40
 Zambia,1991,0
 Zambia,1992,0
-Zambia,1993,0
+Zambia,1993,1
 Zambia,1994,0
 Zambia,1995,0
 Zambia,1996,0
 Zambia,1997,0
 Zambia,1998,0
 Zambia,1999,0
-Zambia,2000,0
+Zambia,2000,1
 Zambia,2001,0
-Zambia,2002,0
+Zambia,2002,36
 Zambia,2003,0
 Zambia,2004,0
 Zambia,2005,0
@@ -7139,8 +7139,8 @@ Zambia,2020,0
 Zambia,2021,0
 Zambia,2022,0
 Zambia,2023,0
-Zimbabwe,1989,0
-Zimbabwe,1990,0
+Zimbabwe,1989,37
+Zimbabwe,1990,14
 Zimbabwe,1991,0
 Zimbabwe,1992,0
 Zimbabwe,1993,0
@@ -7158,7 +7158,7 @@ Zimbabwe,2004,0
 Zimbabwe,2005,0
 Zimbabwe,2006,0
 Zimbabwe,2007,0
-Zimbabwe,2008,0
+Zimbabwe,2008,253
 Zimbabwe,2009,0
 Zimbabwe,2010,0
 Zimbabwe,2011,0
