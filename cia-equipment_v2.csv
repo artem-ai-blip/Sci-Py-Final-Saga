@@ -8,15 +8,15 @@
 "Australia,""Canada, US"""
 "Austria,""European countries, US"""
 "Azerbaijan,""Belarus, Israel, Russia, Turkey"""
-Bahamas,Netherlands
-Bahrain,US
+"Bahamas,""Netherlands"""
+"Bahrain,""US"""
 "Bangladesh,""China, Russia"""
-Barbados,Netherlands
+"Barbados,""Netherlands"""
 "Belarus,""Russia, Soviet Union"""
 "Belgium,""European countries, Israel, US"""
 "Belize,""UK, US"""
 "Benin,""France, Soviet Union, US"""
-Bhutan,India
+"Bhutan,""India"""
 "Bolivia,""Brazil, China, European countries, France, US"""
 "Bosnia and Herzegovina,""Soviet Union, US"""
 "Botswana,""European countries, US"""
@@ -33,12 +33,12 @@ Bhutan,India
 "Central African Republic,""China, France, Russia, Soviet Union"""
 "Chad,""Belgium, China, France, Russia, Soviet Union, Turkey, US"""
 "Chile,""Australia, UK, US"""
-China,Russia
+"China,""Russia"""
 "Colombia,""Canada, European countries, Israel, South Korea, US"""
 "Comoros,""France, Italy, Russia, US"""
-Congo,Soviet Union
+"Congo,""Soviet Union"""
 "Republic of the Congo,""France, South Africa, Soviet Union"""
-Costa Rica,US
+"Costa Rica,""US"""
 "Cote d'Ivoire,""Bulgaria, China, France, Soviet Union"""
 "Croatia,""France, Germany, Soviet Union, US"""
 "Cuba,""Russia, Soviet Union"""
@@ -46,10 +46,10 @@ Costa Rica,US
 "Czechia,""Austria, Germany, Spain"""
 "Denmark,""European countries, US"""
 "Djibouti,""China, France, Netherlands, Soviet Union, US"""
-Dominican Republic,US
+"Dominican Republic,""US"""
 "Ecuador,""Brazil, China, Germany, Russia, Spain, US"""
 "Egypt,""France, Germany, Italy, Russia, US"""
-El Salvador,US
+"El Salvador,""US"""
 "Equatorial Guinea,""Bulgaria, China, Israel, Russia"""
 "Eritrea,""Russia, Soviet Union"""
 "Estonia,""European countries, Israel, South Korea, Soviet Union, US"""
@@ -60,18 +60,18 @@ El Salvador,US
 "France,""European countries, US"""
 "Gabon,""Brazil, China, France, Germany, South Africa"""
 "Gambia,""China, Turkey, UK, US"""
-Gaza Strip,Iran
+"Gaza Strip,""Iran"""
 "Georgia,""European countries, Soviet Union, US"""
 "Germany,""European countries, US"""
 "Ghana,""China, Russia"""
 "Greece,""European countries, France, Germany, US"""
 "Guatemala,""Colombia, Spain, US"""
 "Guinea,""China, France, South Africa, Soviet Union"""
-Guinea-Bissau,Soviet Union
+"Guinea-Bissau,""Soviet Union"""
 "Guyana,""Brazil, China, Soviet Union, UK, US"""
 "Honduras,""Colombia, Israel, UK, US"""
 "Hungary,""Germany, Soviet Union, US"""
-Iceland,European countries
+"Iceland,""European countries"""
 "India,""China, France, Israel, Russia, US"""
 "Indonesia,""China, France, Germany, Netherlands, Russia, South Korea, US"""
 "Iran,""China, North Korea, Russia, Soviet Union, US"""
@@ -80,12 +80,12 @@ Iceland,European countries
 "Israel,""European countries, US"""
 "Italy,""European countries, US"""
 "Jamaica,""European countries, US"""
-Japan,US
+"Japan,""US"""
 "Jordan,""European countries, Gulf States, Netherlands, Russia, US"""
 "Kazakhstan,""Russia, Soviet Union"""
 "Kenya,""China, France, Italy, UK, US"""
 "North Korea,""China, Russia, Soviet Union"""
-South Korea,US
+"South Korea,""US"""
 "Kosovo,""Turkey, US"""
 "Kuwait,""European countries, Russia, US"""
 "Kyrgyzstan,""Belarus, Germany, Russia, Soviet Union, Turkey"""
@@ -98,7 +98,7 @@ South Korea,US
 "Madagascar,""South Africa, Soviet Union, UAE"""
 "Malawi,""China, France, South Africa"""
 "Malaysia,""European countries, South Korea, US"""
-Maldives,India
+"Maldives,""India"""
 "Mali,""China, Russia, Soviet Union"""
 "Malta,""European countries, Italy, US"""
 "Mauritania,""China, France, Soviet Union"""
@@ -108,13 +108,13 @@ Maldives,India
 "Mongolia,""Russia, Soviet Union"""
 "Montenegro,""Austria, Soviet Union, Turkey, US"""
 "Morocco,""France, US"""
-Mozambique,Soviet Union
+"Mozambique,""Soviet Union"""
 "Namibia,""Brazil, China, Germany, India, South Africa"""
 "Nepal,""China, India, Italy, Russia, South Africa, UK"""
 "Netherlands,""European countries, US"""
-New Zealand,US
+"New Zealand,""US"""
 "Nicaragua,""Russia, Soviet Union"""
-Niger,US
+"Niger,""US"""
 "Nigeria,""China, European countries, Middle East, Russia, Soviet Union, US"""
 "North Macedonia,""Soviet Union, Turkey, US"""
 "Norway,""European countries, US"""
@@ -122,7 +122,7 @@ Niger,US
 "Pakistan,""China, France, Russia, Turkey, Ukraine, UK, US"""
 "Palau,""Australia, Japan"""
 "Panama,""Canada, Italy, US"""
-Papua New Guinea,Australia
+"Papua New Guinea,""Australia"""
 "Paraguay,""Brazil, US"""
 "Peru,""Brazil, European countries, Russia, Soviet Union, South Korea, US"""
 "Philippines,""Israel, South Korea, US"""
@@ -144,15 +144,15 @@ Papua New Guinea,Australia
 "Solomon Islands,""Australia, China"""
 "Somalia,""Italy, Russia, South Africa, UK, US"""
 "South Africa,""Domestic production, European countries, Israel, US"""
-South Sudan,Soviet Union
+"South Sudan,""Soviet Union"""
 "Spain,""European countries, France, Germany, US"""
 "Sri Lanka,""China, India, Russia, US"""
 "Sudan,""China, Russia, Soviet Union, Turkey, Ukraine"""
-Suriname,India
+"Suriname,""India"""
 "Sweden,""Domestic production, European countries, US"""
 "Switzerland,""Domestic production, US"""
 "Syria,""Russia, Soviet Union"""
-Taiwan,US
+"Taiwan,""US"""
 "Tajikistan,""Russia, Soviet Union"""
 "Tanzania,""China, Soviet Union"""
 "Thailand,""China, South Korea, Ukraine, US"""
