@@ -1,29 +1,28 @@
-Observed Country, Suppliers
+Country, Suppliers
 "Albania,""NATO countries, Soviet Union"""
 Algeria,Russia
 "Angola,""Russia, Soviet Union"""
 Antigua and Barbuda,US
 "Argentina,""European countries, France, US"""
 "Armenia,""Russia, Soviet Union"""
-"Australia,""Canada, US, Western countries"""
+"Australia,""Canada, US"""
 "Austria,""European countries, US"""
 "Azerbaijan,""Belarus, Israel, Russia, Turkey"""
 Bahamas,Netherlands
-"Bahrain,""Various countries, US"""
+"Bahrain,"", US"""
 "Bangladesh,""China, Russia"""
 Barbados,Netherlands
 "Belarus,""Russia, Soviet Union"""
 "Belgium,""European countries, Israel, US"""
 "Belize,""UK, US"""
 "Benin,""France, Soviet Union, US"""
-Bermuda,Various countries
 Bhutan,India
 "Bolivia,""Brazil, China, European countries, France, US"""
 "Bosnia and Herzegovina,""Soviet Union, US"""
 "Botswana,""European countries, US"""
 "Brazil,""European countries, US"""
 "Brunei,""Asia, European countries, US"""
-"Bulgaria,""Soviet Union, Western countries"""
+"Bulgaria,""Soviet Union, """
 "Burkina Faso,""France, Russia, South Africa, Turkey, UK, US"""
 "Burma,""China, Russia, Soviet Union"""
 "Burundi,""China, France, Russia, South Africa, US"""
@@ -45,7 +44,7 @@ Costa Rica,US
 "Cuba,""Russia, Soviet Union"""
 "Cyprus,""France, Israel, Russia, Serbia"""
 "Czechia,""Austria, Germany, Spain"""
-"Denmark,""European countriesan countries, US"""
+"Denmark,""European countries, US"""
 "Djibouti,""China, France, Netherlands, Soviet Union, US"""
 Dominican Republic,US
 "Ecuador,""Brazil, China, Germany, Russia, Spain, US"""
@@ -53,18 +52,18 @@ Dominican Republic,US
 El Salvador,US
 "Equatorial Guinea,""Bulgaria, China, Israel, Russia"""
 "Eritrea,""Russia, Soviet Union"""
-"Estonia,""European countriesan countries, Israel, South Korea, Soviet Union, US"""
+"Estonia,""European countries, Israel, South Korea, Soviet Union, US"""
 "Eswatini,""European countries, South Africa, US"""
 "Ethiopia,""China, Israel, Russia, South Korea, Turkey, UAE, Ukraine"""
 "Fiji,""Australia, China"""
-"Finland,""European countriesan countries, Israel, Netherlands, South Korea, US"""
-"France,""European countriesan countries, US"""
+"Finland,""European countries, Israel, Netherlands, South Korea, US"""
+"France,""European countries, US"""
 "Gabon,""Brazil, China, France, Germany, South Africa"""
 "Gambia,""China, Turkey, UK, US"""
 Gaza Strip,Iran
-"Georgia,""European countriesan countries, Soviet Union, US"""
-"Germany,""European countriesan countries, US"""
-"Ghana,""China, Russia, Western countries"""
+"Georgia,""European countries, Soviet Union, US"""
+"Germany,""European countries, US"""
+"Ghana,""China, Russia, """
 "Greece,""European countries, France, Germany, US"""
 "Guatemala,""Colombia, Spain, US"""
 "Guinea,""China, France, South Africa, Soviet Union"""
@@ -72,12 +71,12 @@ Guinea-Bissau,Soviet Union
 "Guyana,""Brazil, China, Soviet Union, UK, US"""
 "Honduras,""Colombia, Israel, UK, US"""
 "Hungary,""Germany, Soviet Union, US"""
-Iceland,European countriesan countries
+Iceland,European countries
 "India,""China, France, Israel, Russia, US"""
 "Indonesia,""China, France, Germany, Netherlands, Russia, South Korea, US"""
 "Iran,""China, North Korea, Russia, Soviet Union, US"""
 "Iraq,""European countries, Russia, South Africa, South Korea, US"""
-"Ireland,""European countriesan countries, UK"""
+"Ireland,""European countries, UK"""
 "Israel,""European countries, US"""
 "Italy,""European countries, US"""
 "Jamaica,""European countries, US"""
@@ -93,11 +92,9 @@ South Korea,US
 "Laos,""China, Russia, Soviet Union"""
 "Latvia,""UK, US"""
 "Lebanon,""European countries, US"""
-Lesotho,Various countries
 "Liberia,""China, US"""
 "Libya,""Russia, Soviet Union, Turkey, UAE"""
 "Lithuania,""Germany, US"""
-Luxembourg,Western countries
 "Madagascar,""South Africa, Soviet Union, UAE"""
 "Malawi,""China, France, South Africa"""
 "Malaysia,""European countries, South Korea, US"""
@@ -136,12 +133,11 @@ Papua New Guinea,Australia
 "Russia,""Domestic production, limited imports"""
 "Rwanda,""France, Russia, South Africa, Soviet Union"""
 "Saint Kitts and Nevis,""Belgium, UK, US"""
-Sao Tome and Principe,Limited sources
 "Saudi Arabia,""European countries, France, Spain, UK, US"""
 "Senegal,""France, Russia, South Africa, Soviet Union"""
 "Serbia,""China, Russia, Soviet Union"""
 "Seychelles,""China, India, Soviet Union"""
-"Sierra Leone,""Soviet Union, Various donors"""
+"Sierra Leone,""Soviet Union"""
 "Singapore,""European countries, France, US"""
 "Slovakia,""Italy, Soviet Union, US"""
 "Slovenia,""European countries, Soviet Union, US"""
@@ -172,7 +168,7 @@ Taiwan,US
 "United Arab Emirates,""European countries, US"""
 "United Kingdom,""European countries, US"""
 "United States,""Domestic production, European countries"""
-"Uruguay,""Spain, Various suppliers"""
+"Uruguay,""Spain"""
 "Uzbekistan,""China, Russia, Soviet Union"""
 "Venezuela,""China, Netherlands, Russia, Spain, US"""
 "Vietnam,""Belarus, Israel, Netherlands, Russia, South Korea, US"""
