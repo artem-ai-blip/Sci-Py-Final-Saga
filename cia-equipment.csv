@@ -1,4 +1,4 @@
-Country,Suppliers
+"Country,""Suppliers"""
 "Albania,""US, Soviet Union"""
 Algeria,Russia
 "Angola,""Russia, Soviet Union"""
@@ -63,7 +63,7 @@ El Salvador,US
 Gaza Strip,Iran
 "Georgia,""European countries, Soviet Union, US"""
 "Germany,""European countries, US"""
-"Ghana,""China, Russia, """
+"Ghana,""China, Russia"""
 "Greece,""European countries, France, Germany, US"""
 "Guatemala,""Colombia, Spain, US"""
 "Guinea,""China, France, South Africa, Soviet Union"""
